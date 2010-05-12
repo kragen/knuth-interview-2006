@@ -275,7 +275,7 @@ music, and also in physics.
 My chemistry/physics teacher was a
 wonderful man, who sort of wrote his own textbook, he designed the
 chemical experiments, and I had a great admiration for him, and he
-encouraged me to you know, to think some about Physics, and although I
+encouraged me to you know, to think some about physics, and although I
 spent most of my time in music, outside of school.
 
 In fact I, well I
@@ -283,7 +283,7 @@ played the piano with the high school chorus, I sang in the chorus, I
 was in the band, I played the saxophone and I played the tuba in the
 band, and I played, you know, in the All-City, the Milwaukee All-City
 Band, or Symphonic Band. **I wrote music**, I arranged music for bands. I
-had, I had, at the time I took a; I was a big fan of **“Mad Magazine”**.
+had, I had, at the time I took a; I was a big fan of ***Mad Magazine***.
 
 And also of Roger Price, if anybody remembers Roger Price, and he had
 written a short story called “Milton and the Rhinoceros”. And so I
@@ -349,7 +349,7 @@ like A, B, C, but they gave a number grade, and based on you know,
 when you took an exam, they would average these scores, and they would
 grade your homework and it was all based on a zero to 100 system, and
 they said that **my average which was more than 97.5 was a record for
-the school** that hadn't been achieved before, so I was pretty much **a
+the school** that hadn’t been achieved before, so I was pretty much **a
 nerd of nerds** at that time.
 
 [7 - My sense of humor](http://webofstories.com/play/17066)
@@ -357,110 +357,130 @@ nerd of nerds** at that time.
 
 Rather than sceptical, cynical, I would prefer satirical or something.
  
-DIKRAN: Satirical. 
+KARAGUEUZIAN: Satirical. 
  
-DONALD: But anyway, that's why I liked "Mad magazine", because it was
+KNUTH: But anyway, that’s why I liked *Mad Magazine*, because it was
 like crazy type of satire on the sacred cows of the day, and so when
 my friends and I discovered in high school, you know, we devoured
-every page, and it was a special, you know, mad about "Mad". We, and
+every page, and it was a special, you know, **mad about *Mad***. We, and
 before that, as I said, I had the corny jokes, but my friends and I
 tended to be wise-cracking and not to take things too
-seriously. Although I said I was a machine, but I did also like to
+seriously.
+
+Although I said I was a machine, but I did also like to
 laugh, and so when I was writing for the paper, we always had sections
 about jokes, and we always had you know, in our Yearbook we had fun
-things in there that weren't expected. So I've carried that through,
-as you know, and many; there are lots of corny jokes in the indexes to
-my books now that people probably haven't discovered yet, but somebody
-will ask me, why do I have a reference to Bo Derek in "The TeXbook"?
+things in there that weren’t expected. So I’ve carried that through,
+as you know, and many; there are **lots of corny jokes in the indexes to
+my books** now that people probably haven’t discovered yet, but somebody
+will ask me, why do I have a reference to Bo Derek in *The TeXbook*?
 And it turns out that just all the pages which are cited in the index
 for Bo Derek is where I used the number ten, so all the way through
-I've had this silly streak of some sort that means I don't take
-everything too seriously.)
+I’ve had this silly streak of some sort that means I don’t take
+everything too seriously.
 
 [8 - The Potrzebie System of Weights and Meausures and the Alfred E. Newman crossword](http://webofstories.com/play/17067)
 --------------------------------------------------------------------------------------------------------------------------
 
-While I'm on the subject of "Mad Magazine", I might as well mention
-that then I did a project in my Senior year, which was submitted to
+While I’m on the subject of *Mad Magazine*, I might as well mention
+that then **I did a project in my senior year**, which was submitted to
 the Wisconsin Academy of Sciences, well, no, first to the Westinghouse
 Science Talent Search, which is now called the Intel Science Talent
-Search or something, but it's a nationwide competition, and it was
+Search or something, but it’s a nationwide competition, and it was
 called the Potrzebie System of Weights and Measures. This is a Polish
-word that was very popular in "Mad Magazine", and I decided to base a
+word that was very popular in *Mad Magazine*, and I decided to base a
 system of weights and measures that was going to be better than the
-metric system. It was based on the thickness of "Mad Magazine" number
+metric system. It was based on the thickness of *Mad Magazine* number
 26, or something like this, and that was taken as one potrzebie of
 length. And then we had, you know, a kilo potrzebie was 1,000 of
-those, and a fershlugginer potrzebie was a million- and a farshimmelt
+those, and a fershlugginer potrzebie was a million — and a farshimmelt
 potrzebie one millionth. We had units of time, weight, everything, in
-the system, and it won honorable mention in this Science Talent
-Search, and also was, I did some demos at the Academy of Sciences; it
-won an award in Wisconsin. I submitted it them to "Mad Magazine", and
-they published it; they paid me $25, for it, and it came out in,
+the system.
+
+And it **won honorable mention in this Science Talent
+Search**, and also was, I did some demos at the Academy of Sciences; it
+won an award in Wisconsin. I submitted it them to ***Mad Magazine*, and
+they published it**; they paid me $25, for it, and it came out in,
 during the spring of my Freshman year in college, and this was my
 first technical publication, so it is listed on my vita, you know, and
 publication number one is the Potrzebie System of Weights and
-measures, and it was published later in paperback in one of the "Mad"
+measures, and it was published later in paperback in one of the *Mad*
 reprints, and it, and I used it as a basis of running for student
-government in college, and it failed miserably, you know, I didn't get
-elected. I also sent a sequel to "Mad", which was a crossword
-puzzle. One of their, the Alfred E. Newman figure is one of the, was
-featured on lots of their articles, and this silly boy's face with the
+government in college, and it failed miserably, you know, I didn’t get
+elected.
+
+I also sent a sequel to *Mad*, which was a crossword
+puzzle. One of their, the Alfred E. Neuman figure is one of the, was
+featured on lots of their articles, and this silly boy’s face with the
 missing tooth, and when I looked at his teeth, I could see, you know,
 white squares and black squares, reminding me of a crossword
 puzzle. So I added more white squares and black squares up in his
 forehead area, and where his hair is, and I filled, and I made that
-into a crossword puzzle with "Mad" type clues, like, you know, blank
-me worry, or something like this, and I submitted that, and they
-rejected that, you know, they didn't want, but I've still got it, and
-later on when we get to writing, I'm hoping that I'll someday publish
-a book called "Selected Papers on Fun and Games". We will not only
+into **a crossword puzzle with *Mad*-type clues**, like, you know, “blank,
+me worry?”, or something like this, and I submitted that, and they
+rejected that, you know, they didn’t want, but I’ve still got it, and
+later on when we get to writing, 
+
+I’m hoping that I’ll someday publish
+a book called *Selected Papers on Fun and Games*. We will not only
 reprint my first technical article on the Potrzebie System, but also
-the one that was rejected by "Mad", and we will see the; people will
+the one that was rejected by *Mad*, and we will see the; people will
 decide whether they, you know, will be able to decide now whether they
-made the right decision in rejecting it. So yeah, I like to see things
-sort of out of the box as well as in the box.)
+made the right decision in rejecting it. 
+
+So yeah, I like to see things
+sort of out of the box as well as in the box.
 
 [9 - Feeling the need to prove myself](http://webofstories.com/play/17068)
 --------------------------------------------------------------------------
 
 My parents were asked whether or not they should advance me a grade,
 because I was doing well in school. And they; in fact I was born in
-January, which meant that I was older than most of the kids in my
-class, because if I'd been born in December, I would have gone to
+January, which meant that **I was older than most of the kids in my
+class**, because if I’d been born in December, I would have gone to
 school a year earlier, so I was one of the oldest in my class, and my
 parents, you know, a lot of kids at that time were being pushed ahead
-in school, and one of my friends you know graduated from college when
-he would normally have been entering high school. Well I, but I'm glad
+in school, and one of my friends, you know, graduated from college when
+he would normally have been entering high school.
+
+Well I, but I’m glad
 that they resisted this, because it gave me this time for all these
-extra-curricular activities, so I was always into a lot of things. I
-mean sports; I was a terrible athlete. I'm tall, but my left hand
-doesn't know what the right hand is doing, so I would only get in the
+extra-curricular activities, so I was always into a lot of things. **I
+mean sports; I was a terrible athlete**. I’m tall, but my left hand
+doesn’t know what the right hand is doing, so I would only get in the
 game after we were already behind by 50 points, and, but I was the
-scorekeeper. I was a terrific scorekeeper, you know, so I became
-manager of many of the sports teams in high school, and also in
+scorekeeper. 
+
+I was a terrific scorekeeper, you know, so I became
+**manager of many of the sports teams** in high school, and also in
 college. I was manager of the cross-country team, I was manager of the
-basketball team, I was manager of the baseball team, so I was a six or
-seven letter man without being able to do anything athletics you know,
-whatever. But I'm sitting there at the score table during the
-basketball tournament, and- a basketball game, and like, I'm talking a
-mile a minute to keep the other scorekeeper confused, so that he
-wouldn't know, you know, if somebody said, who's the fouler? And I
+basketball team, I was manager of the baseball team, so **I was a six or
+seven letter man without being able to do anything athletics**, you know,
+whatever. 
+
+But I’m sitting there at the score table during the
+basketball tournament, and- a basketball game, and like, I’m talking a
+mile a minute to **keep the other scorekeeper confused**, so that he
+wouldn’t know, you know, if somebody said, who’s the fouler? And I
 could tell them, you know, who the foul was on, based on, you know,
-who it was most desirable for us to have the foul be on, rather than
-the person who really committed the foul, because the guy's, you know,
-very mixed up by the way I'm talking. But anyway, I don't think I won
+**who it was most desirable for us to have the foul be on, rather than
+the person who really committed the foul**, because the guy’s, you know,
+very mixed up by the way I’m talking. But anyway, I don’t think I won
 too many games at the scoring table, but I was the person who went
-along with the team and kept the scorebooks. But all these
+along with the team and kept the scorebooks.
+
+But all these
 extra-curricular activities were something that I had time to do,
-because my parents hadn't advanced me, and so you know, I could do
-well in my classes but also participate in lots of other things. Now
-my, but, you know, so here I am, doing rather well at school, but I've
-still got an inferiority complex. I'm still always trying to prove
-myself. I'm thinking, you know, maybe I'm not getting it well, and in
-fact, so I was probably taking, you know, studying hard and getting
-100s on these exams, because I'm trying to prove that I knew it. You
-know; if I was really over confident, so confident, I wouldn't have
+because my parents hadn’t advanced me, and so you know, I could do
+well in my classes but also participate in lots of other things.
+
+Now
+my, but, you know, so here I am, doing rather well at school, but I’ve
+still got an **inferiority complex**. I’m still always trying to prove
+myself. I’m thinking, you know, maybe I’m not getting it well, and in
+fact, so I was probably taking, you know, studying hard and **getting
+100s** on these exams, because I’m **trying to prove that I knew it**. You
+know; if I was really overconfident, so confident, I wouldn't have
 bothered to study. And that was, so that was one of the child's eyes
 looking at it. I'm always scared that I'm not going to do well, so I
 was working hard at schoolwork. The funny thing was that my; when I
