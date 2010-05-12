@@ -14,6 +14,12 @@ Patches to improve the formatting and correct errors are
 welcome. Please don’t refill the paragraphs, though; it creates
 unnecessary merge conflicts.
 
+I know **lots of people are going to hate the random boldface**. But
+the interview, like any record of an extempore speech, is not really
+organized into headings, subheadings, and the like. The boldface is my
+attempt to pull out the main topics of each paragraph so that it’s
+possible to skim through the document to find a particular topic.
+
 [1 - Family history](http://webofstories.com/play/17060)
 --------------------------------------------------------
 
@@ -496,8 +502,8 @@ recommended to me.
 
 But the, and I won scholarships to different
 colleges, but the people at my high school, the Vice Principal called
-me in; he said, **Don, I think you’re going to be a failure in
-college**. He said, you know, you’ve done well here in high school, but
+me in; he said, **“Don, I think you’re going to be a failure in
+college”**. He said, you know, you’ve done well here in high school, but
 college is completely different, and you’re just, you know, it’s just
 going to be too much for you, you’re not going to, you aren’t going to
 make it. And, well, so **he scared me** again, and when I got to college I
@@ -507,9 +513,9 @@ In fact, just the week before college, the Dean of
 Students, whoever it was, told us. I went to Case institute of
 Technology in Cleveland, which was at that time not yet connected with
 Western Reserve University. So I went to Case, and the Dean of Case
-says to us, says, it’s a all men’s school, says, men, look at, look to
+says to us, says, it’s a all men’s school, says, “Men, look at, look to
 the person on your left, and the person on your right. One of you
-isn’t going to be here next year; **one of you is going to fail**. So I
+isn’t going to be here next year; **one of you is going to fail.**” So I
 get to Case, and again I’m studying all the time, working really hard
 on my classes, and so for that I had to be kind of a machine.
 
