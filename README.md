@@ -1,10 +1,14 @@
 Donald Knuth Interview 2006
 ===========================
 
-This is a transcript of an interview with the guy videotaped in
+This is a transcript of an interview with the guy
+by Dikran Karagueuzian, the director of CSLI Publications,
+videotaped in
 2006. Copyright 2006 Web of Stories Ltd., but the version of the
 transcript on their web site is just unreadable; this is my effort to
 clean it up a bit.
+It’s about 63 000 words, so it is probably around three or four 
+hours of reading.
 
 [1 - Family history](http://webofstories.com/play/17060)
 --------------------------------------------------------
