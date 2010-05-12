@@ -480,56 +480,66 @@ still got an **inferiority complex**. I’m still always trying to prove
 myself. I’m thinking, you know, maybe I’m not getting it well, and in
 fact, so I was probably taking, you know, studying hard and **getting
 100s** on these exams, because I’m **trying to prove that I knew it**. You
-know; if I was really overconfident, so confident, I wouldn't have
-bothered to study. And that was, so that was one of the child's eyes
-looking at it. I'm always scared that I'm not going to do well, so I
-was working hard at schoolwork. The funny thing was that my; when I
+know; if I was really overconfident, so confident, I wouldn’t have
+bothered to study. And that was, so that was one of the child’s eyes
+looking at it. I’m always scared that I’m not going to do well, so I
+was working hard at schoolwork. 
+
+The funny thing was that my; when I
 was being advised what to do for college, well, everybody in my school
 took a whole bunch of tests, national tests, and one of the tests was
 vocational, you know, what job are you cut out for? And I remember
-that that, according to that test, I should be an architect, and I
+that that, **according to that test, I should be an architect**, and I
 should not be a veterinarian. I scored extremely low on veterinarian
 skills, but for architect, that seemed to be the career path that was
-recommended to me. But the, and I won scholarships to different
+recommended to me.
+
+But the, and I won scholarships to different
 colleges, but the people at my high school, the Vice Principal called
-me in; he said, Don, I think you're going to be a failure in
-college. He said, you know, you've done well here in high school, but
-college is completely different, and you're just, you know, it's just
-going to be too much for you, you're not going to, you aren't going to
-make it. And, well, so he scared me again, and when I got to college I
-kept studying. In fact, just the week before college, the Dean of
+me in; he said, **Don, I think you’re going to be a failure in
+college**. He said, you know, you’ve done well here in high school, but
+college is completely different, and you’re just, you know, it’s just
+going to be too much for you, you’re not going to, you aren’t going to
+make it. And, well, so **he scared me** again, and when I got to college I
+kept studying. 
+
+In fact, just the week before college, the Dean of
 Students, whoever it was, told us. I went to Case institute of
 Technology in Cleveland, which was at that time not yet connected with
 Western Reserve University. So I went to Case, and the Dean of Case
-says to us, says, it's a all men's school, says, men, look at, look to
+says to us, says, it’s a all men’s school, says, men, look at, look to
 the person on your left, and the person on your right. One of you
-isn't going to be here next year; one of you is going to fail. So I
-get to Case, and again I'm studying all the time, working really hard
-on my classes, and so for that I had to be kind of a machine. I, the
-calculus book that I had, in high school we- In high school, as I
-said, our Math program wasn't much, and I had never heard of calculus
-until I got to college. But the calculus book that we had was great,
+isn’t going to be here next year; **one of you is going to fail**. So I
+get to Case, and again I’m studying all the time, working really hard
+on my classes, and so for that I had to be kind of a machine.
+
+I, the
+calculus book that I had, in high school we — in high school, as I
+said, our math program wasn’t much, and **I had never heard of calculus
+until I got to college**. But the calculus book that we had was great,
 and in the back of the book there were supplementary problems that
-weren't, you know, that weren't assigned by the teacher. The teacher
+weren’t, you know, that weren’t assigned by the teacher. The teacher
 would assign, so this was a famous calculus text by a man named George
 Thomas, and I mention it especially because it was one of the first
 books published by Addison-Wesley, and I loved this calculus book so
 much that later I chose Addison-Wesley to be the publisher of my own
-book. But Thomas's Calculus would have the text, then would have
+book. 
+
+But Thomas’s Calculus would have the text, then would have
 problems, and our teacher would assign, say, the even numbered
-problems, or something like that. I would also do the odd numbered
-problems. In the back of Thomas's book he had supplementary problems,
-the teacher didn't assign the supplementary problems; I worked the
-supplementary problems. I was, you know, I was scared I wouldn't learn
+problems, or something like that. **I would also do the odd numbered
+problems**. In the back of Thomas’s book he had supplementary problems,
+the teacher didn’t assign the supplementary problems; I worked the
+supplementary problems. I was, you know, I was scared I wouldn’t learn
 calculus, so I worked hard on it, and it turned out that of course it
 took me longer to solve all these problems than the kids who were only
 working on what was assigned, at first. But after a year, I could do
 all of those problems in the same time as my classmates were doing the
-assigned problems, and after that I could just coast in Mathematics,
-because I'd learned how to solve problems. So it was good that I was
+assigned problems, and **after that I could just coast in mathematics**,
+because I’d learned how to solve problems. So it was good that I was
 scared, in a way that I, you know, that made me start strong, and then
 I could coast afterwards, rather than always climbing and being on a
-lower part of the learning curve.)
+lower part of the learning curve.
 
 [10 - Why I chose to go to Case Institute of Technology](http://webofstories.com/play/17069)
 --------------------------------------------------------------------------------------------
