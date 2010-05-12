@@ -1,3 +1,11 @@
+Donald Knuth Interview 2006
+===========================
+
+This is a transcript of an interview with the guy videotaped in
+2006. Copyright 2006 Web of Stories Ltd., but the version of the
+transcript on their web site is just unreadable; this is my effort to
+clean it up a bit.
+
 [1 - Family history](http://webofstories.com/play/17060)
 --------------------------------------------------------
 
