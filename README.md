@@ -51,26 +51,26 @@ teacher.
 [2 - Learning to read and school](http://webofstories.com/play/17061)
 ---------------------------------------------------------------------
 
-It all started in Milwaukee, Wisconsin, **1938, I was born**. I don't
+It all started in Milwaukee, Wisconsin, **1938, I was born**. I don’t
 remember anything about the first few years of my life, but I know a
 little bit from records that my parents kept that they were kind of
 unusual at that time, in introducing me to reading. All of their
-friends said that I shouldn't, that I would be bored in school if they
+friends said that I shouldn’t, that I would be bored in school if they
 would do much reading for me, before I actually went to school, but I
 was — I guess I was the youngest bookworm in the Milwaukee Public
 Library.
 
-So that's the first, news I have from the past, because they
+So that’s the first, news I have from the past, because they
 saved a newspaper clipping. I guess I was like **two and a half years
 old and I had become a bookworm at the Milwaukee Library**. I start
 remembering things more when I get, you know, when I get into school,
 and I went to a small school at our church. 
 
 **My father was a teacher**
-there. His life's work was to be an educator in the Lutheran School
-System, and their salaries weren't much to speak of. I think, I think
+there. His life’s work was to be an educator in the Lutheran School
+System, and their salaries weren’t much to speak of. I think, I think
 it was something like ten or $15 a month. But it was a very warm,
-loving community. We were pretty much ignorant of what's going on in
+loving community. We were pretty much ignorant of what’s going on in
 the world, but happy and sort of a stable, nice place to grow up. And
 when I was in First Grade my dad was the Second Grade teacher, but
 then he moved on so that when I got into the Second Grade he was the
@@ -80,31 +80,31 @@ on to teach in high school, so, fortunately, I never had my dad as one
 of my teachers.
 
 In this school we had about oh, I think 20, 25 kids,
-and our teachers weren't real strong on Science or Mathematics, they
+and our teachers weren’t real strong on Science or Mathematics, they
 were, but they were pretty good in English. They- like in Seventh
 Grade, I remember, that several of us would spend time after school,
 diagramming sentences; you know, take sentences of English that
-weren't in the book, and figure out what's the subject and the
+weren’t in the book, and figure out what’s the subject and the
 predicate, and how do the, you know, how do the phrases go in, so we,
 our teacher inspired us to know a lot about the English language, and
 by the time we got to high school, the teachers there in high school
-really didn't know that much about English, so that was the only time
+really didn’t know that much about English, so that was the only time
 I remember being bored, because we already knew everything that they
 were going to teach us in high school.
 
 So **the high school I went to,
 again, was a Lutheran high school**. The people who work in these
-schools are, like my dad, doing it as kind of a mission, or, I don't
-know, not, they consider it their life's calling to be good teachers,
+schools are, like my dad, doing it as kind of a mission, or, I don’t
+know, not, they consider it their life’s calling to be good teachers,
 and so we really had people who took a genuine interest in us, and
 were not, not in their job just because it was a job, but because it
 was something that they felt was an important service to the
 world. Some people think that the church schools are places where they
-teach intolerance and you know, that you're supposed to only be, what
+teach intolerance and you know, that you’re supposed to only be, what
 do you say anyway? Only, only be appreciating of people who are like
 you, and so on, but that was absolutely not the case. I think we had a
 very good experience and it was, there was, **one of my teachers was a
-little bit prejudiced against blacks**, but he stood out, and we didn't
+little bit prejudiced against blacks**, but he stood out, and we didn’t
 pay any attention to him.
 
 So it was a, I think a really nice way to
@@ -112,10 +112,10 @@ grow up, but nothing world class, in any sense of special, or, you
 know, special knowledge or unusual.
 
 I think I was kind of a wise guy,
-I think, I'd often sit in the back of the class and crack jokes, and
-**the teachers didn't, didn't really like**, the way, you know, **my
-attitude**. But you know, they learned to live with it, and I didn't
-get, I didn't get spanked too often.
+I think, I’d often sit in the back of the class and crack jokes, and
+**the teachers didn’t, didn’t really like**, the way, you know, **my
+attitude**. But you know, they learned to live with it, and I didn’t
+get, I didn’t get spanked too often.
 
 We had good music also, in the
 school, for singing, and, but we also had a lot of freedom, so I
@@ -141,94 +141,114 @@ these skits.
 
 I should say something about my mom, who was also very important in my
 life, of course. She was unusual also at that time, because she had a
-good job. My parents were the first in their families, in the whole
-history of our family, to have some kind of education. My dad had gone
+good job. My **parents were the first** in their families, in the whole
+history of our family, **to have some kind of education**. My dad had gone
 to a teachers training college in Chicago, and my mother had taken one
-or two years of training as a secretary, as a legal secretary. And in
+or two years of training as a secretary, as a legal secretary.
+
+And in
 the, during the Second World War, she got a job working for a man in
 downtown Milwaukee, who owned and managed several of the skyscrapers
 in town, downtown, and she became his personal secretary, and later a
 Trustee of the, of these, of some of the organisations that owned the
 property, and the time of his death she was, she had been doing rather
 well, and was asked to be, asked to be the manager of one of the
-buildings, so she spent her life working in real estate in Milwaukee
+buildings, so **she spent her life working in real estate in Milwaukee**
 with the large commercial buildings in the downtown area. And she had
 started doing this part time work, when I was five or six years old,
-but still doing everything else at home, as well. My, but my
+but still doing everything else at home, as well. 
+
+My, but my
 grandfather was, my great-grandfather was a blacksmith, my grandfather
 was, my grandfathers on both sides, were in construction work, and
-maintenance. There was not a family tradition of education, and I
-certainly was the first one ever to go on to higher levels of
-education. It's partly the story of America, of course, that more and
+maintenance. There was **not a family tradition of education, and I
+certainly was the first one ever** to go on to higher levels of
+education. It’s partly the story of America, of course, that more and
 more people are going to college, but when I was in high school, at
 that time still, it was, I think something like 7% or 8% of my
 classmates went on to college, and that was considered pretty good at
 that time.)
 
-[4 - My parents' finances](http://webofstories.com/play/17063)
+[4 - My parents’ finances](http://webofstories.com/play/17063)
 --------------------------------------------------------------
 
-I guess I can say a little bit more about my parents' finances. Of
-course they were married during the Depression, and my dad's first
+I guess I can say a little bit more about my parents’ finances. Of
+course **they were married during the Depression**, and my dad’s first
 job, when he came to Milwaukee, they decided after a year, that they
 should cut his salary by $5 a month, and they told him that he would
 learn thrift, and he would, you know, this would be good for him, to,
 and of course the church was always having trouble with fundraising,
-but our family didn't have an automobile till 1951, which is when I
-was in Seventh Grade. We took our first, you know, auto trip at that
-time, to my mother's family in Ohio. Before that we had gone once or
+but **our family didn’t have an automobile till 1951**, which is when I
+was in Seventh Grade. 
+
+We took our first, you know, auto trip at that
+time, to my mother’s family in Ohio. Before that we had gone once or
 twice a year by train, and rarely would relatives from Illinois or
-Ohio be able to come to visit us. We, my dad would always ride his
-bicycle to work, and my mother, well, Milwaukee had good public
-transportation, and in fact it was a very safe city; completely
+Ohio be able to come to visit us. 
+
+We, my dad would always ride his
+bicycle to work, and my mother, well, **Milwaukee had good public
+transportation, and in fact it was a very safe city**; completely
 different from now, when, because of drugs and things now, but when I
 was growing up, I could, I would always ride the streetcar downtown at
 all hours of the day and night. Now you take your life in your hands
 doing this. You know, no parent would let their child do any of the
-things that we were doing. I was, once I took the streetcar; I don't
+things that we were doing. 
+
+I was, once I took the streetcar; I don’t
 know how old I was, but I think it was, you know, maybe Fourth or
-Fifth Grade, and I took the streetcar downtown, and went to the public
-library, and I started reading books, and I didn't know that the
+Fifth Grade, and I took the streetcar downtown, and **went to the public
+library**, and I started reading books, and I didn’t know that the
 library hours, that the library was closing, and the lights went off,
 so I went over to a window, where I could sit, and I kept reading, and
-finally the people, you know, and my parents didn't, were wondering
-what happened to me, why didn't I come home? But somebody at the
+finally the people, you know, and my parents didn’t, were wondering
+what happened to me, why didn’t I come home? 
+
+But somebody at the
 library found me, you know, just in the stacks, reading the books, and
-but you know, still they wouldn't worry too much about letting kids go
+but you know, still they wouldn’t worry too much about letting kids go
 around the city, and so my mother would take the streetcar downtown to
 her work, and we never thought of having an automobile until they
 could finally afford something from the little jobs that my dad would
-take outside of his teaching experience. He would; he and his friends
-got together and they invested in the stock market, what they called
-penny stocks. You could buy stocks in various mining companies. He met
+take outside of his teaching experience. 
+
+He would; he and his friends
+got together and they **invested in the stock market, what they called
+penny stocks**. You could buy stocks in various mining companies. He met
 a man at the, I think it was at a, what do you call it? A bathhouse?
 Or, you know, a public bath, where you can go for a hot bath, and met
 a man there who introduced him to some people from Colorado who were
 into mining and so then they decided they were going to make some
-money this way. Well, I inherited all these stock certificates now,
-which make great wallpaper, but they, you know; they're completely
-useless. One of the stocks, however, did well. It was called Silver
-Bell Mine, and we've, eventually we went out to Colorado, visited the
+money this way.
+
+Well, I inherited all these stock certificates now,
+which make **great wallpaper**, but they, you know; they’re **completely
+useless**. One of the stocks, however, did well. It was called Silver
+Bell Mine, and we’ve, eventually we went out to Colorado, visited the
 place, and saw the, you know, we, the stock was sold to Union Oil
-eventually, and made a little bit of money on that. So, and my parents
-bought stock in Walt Disney, and that kept doubling and
-multiplying. So by working hard and saving money, throughout my mom's
+eventually, and made a little bit of money on that. So, and **my parents
+bought stock in Walt Disney**, and that kept doubling and
+multiplying. 
+
+So by working hard and saving money, throughout my mom’s
 life; she died at almost age 90, and she never retired, she stayed
 working in real estate, even in her late 80s they had an office for
 her downtown, and she could come in, maybe three days a week, and, but
 putting money in the bank, and being a generous person, and
-contributing to charity and so on, but she had accumulated an estate
-of more than $1 million, by the time that she died. And this surprised
-everybody including her. But they were, my dad was the bookkeeper for
+contributing to charity and so on, but **she had accumulated an estate
+of more than $1 million**, by the time that she died. And **this surprised
+everybody** including her.
+
+But they were, my dad was the bookkeeper for
 the high school, and so he took some classes in accounting, and so he
 spent a lot of his time actually filling out what we'd call
 spreadsheets now. And he'd stay keeping track of little transactions
 with stocks. The, so, I think it's interesting to see that the way
-they could, just by being responsible citizens, make a good life for
-themselves, the way the times were in our country at that period. And
+**they could, just by being responsible citizens, make a good life for
+themselves**, the way the times were in our country at that period. And
 this idea of personal responsibility was something I always took for
 granted, because I got it from my parents. So it never occurred to me
-that there was any other way to live.)
+that there was any other way to live.
 
 [5 - Interests in high school (Part 1)](http://webofstories.com/play/17064)
 ---------------------------------------------------------------------------
