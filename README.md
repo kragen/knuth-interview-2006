@@ -51,18 +51,22 @@ teacher.
 [2 - Learning to read and school](http://webofstories.com/play/17061)
 ---------------------------------------------------------------------
 
-It all started in Milwaukee, Wisconsin, 1938 I was born. I don't
+It all started in Milwaukee, Wisconsin, **1938, I was born**. I don't
 remember anything about the first few years of my life, but I know a
 little bit from records that my parents kept that they were kind of
 unusual at that time, in introducing me to reading. All of their
 friends said that I shouldn't, that I would be bored in school if they
 would do much reading for me, before I actually went to school, but I
-was- I guess I was the youngest bookworm in the Milwaukee Public
-Library. So that's the first, news I have from the past, because they
-saved a newspaper clipping. I guess I was like two and a half years
-old and I had become a bookworm at the Milwaukee Library. I start
+was — I guess I was the youngest bookworm in the Milwaukee Public
+Library.
+
+So that's the first, news I have from the past, because they
+saved a newspaper clipping. I guess I was like **two and a half years
+old and I had become a bookworm at the Milwaukee Library**. I start
 remembering things more when I get, you know, when I get into school,
-and I went to a small school at our church. My father was a teacher
+and I went to a small school at our church. 
+
+**My father was a teacher**
 there. His life's work was to be an educator in the Lutheran School
 System, and their salaries weren't much to speak of. I think, I think
 it was something like ten or $15 a month. But it was a very warm,
@@ -73,7 +77,9 @@ then he moved on so that when I got into the Second Grade he was the
 Fourth Grade teacher, and when I got into Fourth Grade, he was the
 Sixth Grade teacher. And finally, when I got into Sixth Grade, he went
 on to teach in high school, so, fortunately, I never had my dad as one
-of my teachers. In this school we had about oh, I think 20, 25 kids,
+of my teachers.
+
+In this school we had about oh, I think 20, 25 kids,
 and our teachers weren't real strong on Science or Mathematics, they
 were, but they were pretty good in English. They- like in Seventh
 Grade, I remember, that several of us would spend time after school,
@@ -84,8 +90,10 @@ our teacher inspired us to know a lot about the English language, and
 by the time we got to high school, the teachers there in high school
 really didn't know that much about English, so that was the only time
 I remember being bored, because we already knew everything that they
-were going to teach us in high school. So the high school I went to,
-again, was a Lutheran high school. The people who work in these
+were going to teach us in high school.
+
+So **the high school I went to,
+again, was a Lutheran high school**. The people who work in these
 schools are, like my dad, doing it as kind of a mission, or, I don't
 know, not, they consider it their life's calling to be good teachers,
 and so we really had people who took a genuine interest in us, and
@@ -95,30 +103,38 @@ world. Some people think that the church schools are places where they
 teach intolerance and you know, that you're supposed to only be, what
 do you say anyway? Only, only be appreciating of people who are like
 you, and so on, but that was absolutely not the case. I think we had a
-very good experience and it was, there was, one of my teachers was a
-little bit prejudiced against blacks, but he stood out, and we didn't
-pay any attention to him. So it was a, I think a really nice way to
+very good experience and it was, there was, **one of my teachers was a
+little bit prejudiced against blacks**, but he stood out, and we didn't
+pay any attention to him.
+
+So it was a, I think a really nice way to
 grow up, but nothing world class, in any sense of special, or, you
-know, special knowledge or unusual. I think I was kind of a wise guy,
+know, special knowledge or unusual.
+
+I think I was kind of a wise guy,
 I think, I'd often sit in the back of the class and crack jokes, and
-the teachers didn't, didn't really like, the way, you know, my
-attitude. But you know, they learned to live with it, and I didn't
-get, I didn't get spanked too often. We had good music also, in the
+**the teachers didn't, didn't really like**, the way, you know, **my
+attitude**. But you know, they learned to live with it, and I didn't
+get, I didn't get spanked too often.
+
+We had good music also, in the
 school, for singing, and, but we also had a lot of freedom, so I
 remember like, we had a circle of four or five friends, and when we
 were in Fifth and Sixth Grade, we started doing some little projects,
 like we got hold of a tape recorder, this was in the 1940s, and we
-tried to write scripts for fake radio programs, and we pretended we
-were on the radio, and we put on these little shows, and recorded
-them. My friends and I started a school newspaper. We called it
-"Newsweak", spelled W, E, A, K, of course. And in that paper we would
+tried to write scripts for fake radio programs, and we **pretended we
+were on the radio**, and we put on these little shows, and recorded
+them.
+
+My friends and I **started a school newspaper**. We called it
+“**Newsweak**”, spelled W, E, A, K, of course. And in that paper we would
 tell stories about things going on in the school, but also we recycled
 a lot of corny jokes we had seen in books, and had a puzzle page and
-things like that. But that was when I, I had my first experience in
-writing, and as I say, we had good English in that school, so from
+things like that. But that was when I, I had **my first experience in
+writing**, and as I say, we had good English in that school, so from
 early on, I had a lot of training in things that had to do with
 languages, and then a chance to do some creative work with things like
-these skits.)
+these skits.
 
 [3 - My mother](http://webofstories.com/play/17062)
 ---------------------------------------------------
