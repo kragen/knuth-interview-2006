@@ -2,6 +2,18 @@
 use strict;
 use LWP::Simple qw(get);
 
+=head1 NAME
+
+fetch - converts the Knuth interview from Web of Stories into Markdown
+
+=head1 DESCRIPTION
+
+Run it; it hits the site and outputs Markdown. You could probably use
+it to get Markdown transcripts from other Web of Stories interviews
+too if you change C<@ids>.
+
+=cut
+
 my @ids = (17060..17156);
 
 for my $id (@ids) {
