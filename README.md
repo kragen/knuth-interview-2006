@@ -241,9 +241,9 @@ everybody** including her.
 
 But they were, my dad was the bookkeeper for
 the high school, and so he took some classes in accounting, and so he
-spent a lot of his time actually filling out what we'd call
-spreadsheets now. And he'd stay keeping track of little transactions
-with stocks. The, so, I think it's interesting to see that the way
+spent a lot of his time actually filling out what we’d call
+spreadsheets now. And he’d stay keeping track of little transactions
+with stocks. The, so, I think it’s interesting to see that the way
 **they could, just by being responsible citizens, make a good life for
 themselves**, the way the times were in our country at that period. And
 this idea of personal responsibility was something I always took for
@@ -256,91 +256,126 @@ that there was any other way to live.
 Back in high school, my main activities in high school, at, it was
 called Lutheran High School, and then during my Senior year it split
 into two schools, Milwaukee Lutheran High School, which was the one
-I'd went to, and Wisconsin Lutheran High School. 1956 was the year I
-graduated, and that, well, the place where again I didn't have
+I’d went to, and Wisconsin Lutheran High School. 
+
+**1956 was the year I
+graduated**, and that, well, the place where again I didn’t have
 special, teachers who were specialists in a world class sense, but
-they were always real interested in nurturing us. I went on to be a
-Mathematician, but the Math, but I didn't have any interest very much
+they were always real interested in nurturing us.
+
+I went on to be a
+mathematician, but the math, but I didn’t have any interest very much
 in Math at the time in high school, because my, I would ask questions
-to my teachers, and they didn't know the answer. So I could prove that
-one was equal to zero, and they couldn't find any mistakes in the
-proof, and so you know, I couldn't, and so, why should I go in, you
-know, go into Mathematics? So my main interest at that time was in
-Music, and also in Physics. My Chemistry Physics teacher was a
+to my teachers, and they didn’t know the answer. So I could prove that
+one was equal to zero, and they couldn’t find any mistakes in the
+proof, and so you know, I couldn’t, and so, why should I go in, you
+know, go into mathematics? So my main interest at that time was in
+music, and also in physics.
+
+My chemistry/physics teacher was a
 wonderful man, who sort of wrote his own textbook, he designed the
 chemical experiments, and I had a great admiration for him, and he
 encouraged me to you know, to think some about Physics, and although I
-spent most of my time in Music, outside of school, in fact I, well I
+spent most of my time in music, outside of school.
+
+In fact I, well I
 played the piano with the high school chorus, I sang in the chorus, I
 was in the band, I played the saxophone and I played the tuba in the
 band, and I played, you know, in the All-City, the Milwaukee All-City
-Band, or Symphonic Band. I wrote music, I arranged music for bands. I
-had, I had, at the time I took a; I was a big fan of "Mad Magazine",
-and also of Roger Price, if anybody remembers Roger Price, and he had
-written a short story called "Milton and the Rhinoceros". And so I
-made a take off on Prokofiev's "Peter and the Wolf", with the words
-from "Milton and the Rhinoceros". I was very naÃ¯ve at the time; I had
-no idea about copyrights, or anything, so I took Prokofiev's music,
-and I scored it for band, and I took Roger Price's words, "Milton and
-the Rhinoceros", and I made this, this piece for, I don't know, 20
+Band, or Symphonic Band. **I wrote music**, I arranged music for bands. I
+had, I had, at the time I took a; I was a big fan of **“Mad Magazine”**.
+
+And also of Roger Price, if anybody remembers Roger Price, and he had
+written a short story called “Milton and the Rhinoceros”. And so I
+made a take off on Prokofiev’s “Peter and the Wolf”, with the words
+from “Milton and the Rhinoceros”. I was very naïve at the time; I had
+no idea about copyrights, or anything, so I **took Prokofiev’s music,
+and I scored it for band, and I took Roger Price’s words**, “Milton and
+the Rhinoceros”, and I made this, this piece for, I don’t know, 20
 minutes or something like this, for our, for our high school band to
 perform. And I proudly gave this to our band director, and he lost it,
-and I've never seen it again. So I have no idea whether it's any good,
-or whatever, but there it was.)
+and I’ve never seen it again.
+
+So I have no idea whether it’s any good,
+or whatever, but there it was.
 
 [6 - Interests in high school (Part 2)](http://webofstories.com/play/17065)
 ---------------------------------------------------------------------------
 
-I also started the school newspaper. I was Editor of the paper, and
+I also **started the school newspaper**. I was Editor of the paper, and
 during my Senior year, I would do an all-nighter every Monday night. I
-stayed up the whole night, getting the paper done by seven o'clock in
-the morning. We didn't have a professional way to produce it, so I
-produced it on a mimeograph machine, which was something that's way
+stayed up the whole night, getting the paper done by seven o’clock in
+the morning. We didn’t have a professional way to produce it, so I
+produced it on a mimeograph machine, which was something that’s way
 obsolete now, but it uses very greasy ink, and the reason I did that
-was because we happened to have one at our house. My dad did part time
+was because we happened to have one at our house.
+
+My dad did part time
 work for an architect in Milwaukee, printing up the specifications,
 and you know, he could make a little freelance money this way to
 supplement his meagre salary, and he also used this machine to typeset
 music for local choirs, and so I had this machine at home, and also
 some electric typewriter that he had, or maybe my mother had; anyway
-we had it at home, so I could produce our school newspaper at home,
+we had it at home, so **I could produce our school newspaper at home**,
 without having to worry about fancy typesetting, but we had a lot of
 reporters, and I wrote some features for it, like crossword puzzles,
-and things like that. So again, I was doing a lot of writing in my
-spare time, during high school. I worked on the Yearbook and other
+and things like that. So again, I was doing **a lot of writing in my
+spare time, during high school**.
+
+I worked on the Yearbook and other
 publications as well, and friends of mine, friends and I wrote plays
 that were put on by groups in the high school. So it was a fun
 time. But I would say at that part of my life I was pretty much a,
 like a machine, an autom-, I mean I was just, I would just learn,
-absorb stuff, and take tests and you know, get 100% on the tests if I
+absorb stuff, and take tests and you know, **get 100% on the tests** if I
 could, without really sitting back and taking a look at finer things
 in life, or something like this. I was a, I was a dutiful child who
-said, okay, you're supposed to go to school Don, so I went to school,
-and you're supposed to learn, so I learned, and I had fun on the side
-with some of these writing projects, but I really wouldn't read a book
-unless it was assigned to me. Sometimes I would read, I remember, I'm
-a very slow reader, and I remember "Bleak House", by Charles Dickens,
+said, okay, you’re supposed to go to school Don, so I went to school,
+and you’re supposed to learn, so I learned, and I had fun on the side
+with some of these writing projects, but **I really wouldn’t read a book
+unless it was assigned to me**.
+
+Sometimes I would read, I remember, **I’m
+a very slow reader**, and I remember *Bleak House*, by Charles Dickens,
 with 60, 70 chapters, and I, it took me so long to read it that I had
-to use it for two book reports instead of one, and I didn't; so it
-wasn't until I was in my 30s before I actually found some of the great
-literature of the world and read it for my own pleasure. In high
+to use it for two book reports instead of one, and I didn’t; so it
+wasn’t **until I was in my 30s** before I actually found some of the great
+literature of the world and read it for my own pleasure.
+
+In high
 school, well I guess I was a fairly successful machine, because they
-said that my, okay, in those days they didn't give just letter grades,
+said that my, okay, in those days they didn’t give just letter grades,
 like A, B, C, but they gave a number grade, and based on you know,
 when you took an exam, they would average these scores, and they would
 grade your homework and it was all based on a zero to 100 system, and
-they said that my average which was more than 97.5 was a record for
-the school that hadn't been achieved before, so I was pretty much a
-nerd of nerds at that time.)
+they said that **my average which was more than 97.5 was a record for
+the school** that hadn't been achieved before, so I was pretty much **a
+nerd of nerds** at that time.
 
 [7 - My sense of humor](http://webofstories.com/play/17066)
 -----------------------------------------------------------
 
 Rather than sceptical, cynical, I would prefer satirical or something.
  
-Satirical. 
+DIKRAN: Satirical. 
  
-But anyway, that's why I liked "Mad magazine", because it was like crazy type of satire on the sacred cows of the day, and so when my friends and I discovered in high school, you know, we devoured every page, and it was a special, you know, mad about "Mad". We, and before that, as I said, I had the corny jokes, but my friends and I tended to be wise-cracking and not to take things too seriously. Although I said I was a machine, but I did also like to laugh, and so when I was writing for the paper, we always had sections about jokes, and we always had you know, in our Yearbook we had fun things in there that weren't expected. So I've carried that through, as you know, and many; there are lots of corny jokes in the indexes to my books now that people probably haven't discovered yet, but somebody will ask me, why do I have a reference to Bo Derek in "The TeXbook"? And it turns out that just all the pages which are cited in the index for Bo Derek is where I used the number ten, so all the way through I've had this silly streak of some sort that means I don't take everything too seriously.)
+DONALD: But anyway, that's why I liked "Mad magazine", because it was
+like crazy type of satire on the sacred cows of the day, and so when
+my friends and I discovered in high school, you know, we devoured
+every page, and it was a special, you know, mad about "Mad". We, and
+before that, as I said, I had the corny jokes, but my friends and I
+tended to be wise-cracking and not to take things too
+seriously. Although I said I was a machine, but I did also like to
+laugh, and so when I was writing for the paper, we always had sections
+about jokes, and we always had you know, in our Yearbook we had fun
+things in there that weren't expected. So I've carried that through,
+as you know, and many; there are lots of corny jokes in the indexes to
+my books now that people probably haven't discovered yet, but somebody
+will ask me, why do I have a reference to Bo Derek in "The TeXbook"?
+And it turns out that just all the pages which are cited in the index
+for Bo Derek is where I used the number ten, so all the way through
+I've had this silly streak of some sort that means I don't take
+everything too seriously.)
 
 [8 - The Potrzebie System of Weights and Meausures and the Alfred E. Newman crossword](http://webofstories.com/play/17067)
 --------------------------------------------------------------------------------------------------------------------------
