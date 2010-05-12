@@ -8,7 +8,7 @@ videotaped in
 transcript on their web site is just unreadable; this is my effort to
 clean it up a bit.
 It’s about 63 000 words, so it is probably around three or four 
-hours of reading.
+hours of reading. Printed, it would be about 110 pages.
 
 Patches to improve the formatting and correct errors are
 welcome. Please don’t refill the paragraphs, though; it creates
