@@ -544,123 +544,143 @@ lower part of the learning curve.
 [10 - Why I chose to go to Case Institute of Technology](http://webofstories.com/play/17069)
 --------------------------------------------------------------------------------------------
 
-In high school, as I said, Mathematics was just confusing to me. When
-I got to Case, though, the teachers, the Chemistry teacher was, seemed
-to know Chemistry okay, but he didn't know anything about Physics or
-Math. My Physics teacher knew Physics and Chemistry, but my Math
+In high school, as I said, mathematics was just confusing to me. When
+I got to Case, though, the teachers, the chemistry teacher was, seemed
+to know chemistry okay, but he didn’t know anything about physics or
+math. My physics teacher knew physics and chemistry, but my math
 teacher knew all three subjects, and I had terrific respect for him,
 because he seemed really smart, and also he was very hard to
 please. No matter, you know, I could show him what I was doing in
 calculus, but he would, he never seemed to be impressed, so this was
-frustrating to me. I'd never had a teacher that I couldn't impress,
-you know, so I worked even harder at my Math. But he had a good sense
+frustrating to me. **I’d never had a teacher that I couldn’t impress**,
+you know, so I worked even harder at my math. But he had a good sense
 of humor, and his name was Paul Guenther. And finally, after two
 years, I was able to impress him a little bit, and so this was
 good. But I developed an interest in Mathematics, but I have to go
-back a little bit. I, when I was choosing what college to go to, I had
+back a little bit. 
+
+I, when I was choosing what college to go to, I had
 won several scholarships, and one of the scholarships would have been
 to Valparaiso University in Indiana, associated with the Lutheran
-Church, and it was, but there I would have been a major in Music, and
+Church, and it was, but there I would have been a major in music, and
 the other scholarship was to Case in Cleveland, which was where I
-would major in Physics, and since my mother's family is from
+would major in physics, and since my mother’s family is from
 Cleveland, she knew that Case had very high standards, and very few
 people that she knew were able even to be admitted to Case, and there
-was, considered to be one of the hardest schools to do. I'd never
+was, considered to be one of the hardest schools to do. I’d never
 heard of MIT, by the way, until some years later, or much less
-Caltech. But Case, to me, was a challenge, where I would really have
+Caltech. But **Case, to me, was a challenge**, where I would really have
 to work hard and well, Valparaiso, it would be something where I could
 just do some; music would seem to me much easier. And I decided to go
 for the challenge, at Case, and I was admitted to; they had a special
 section for Freshmen, called the Honors Section, where 20 of us were
-given, were taught each of our classes by the Heads of Departments. So
-I really had the, Case's best, you know, Physics teacher, Chemistry
-teacher, Math teacher and English teacher.)
+given, were taught each of our classes by the heads of departments. So
+I really had the, Case’s best, you know, physics teacher, chemistry
+teacher, math teacher and English teacher.
 
 [11 - University life: my basketball management system](http://webofstories.com/play/17070)
 -------------------------------------------------------------------------------------------
 
-I believe it was the first year they had tried this, and I'm not sure
+I believe it was the first year they had tried this, and I’m not sure
 how long they continued the experiment, but the teachers, but what
-they called us the Honor Section, and this just meant that 20 of us
-just took all our classes together, while other students would tend to
-mix. I don't think the other students all spent Monday, Tuesday,
+they called us the Honor Section, and this just meant that **20 of us
+just took all our classes together**, while other students would tend to
+mix. I don’t think the other students all spent Monday, Tuesday,
 Wednesday the same as, the same hours, like we did. And so the classes
 that I had, then I think they challenged us a little more too, than
-they challenged the other students, perhaps. Still, I had time to do
+they challenged the other students, perhaps.
+
+Still, I had time to do
 you know, to work on the school paper and to, one of the important
-issues of going to Case at that time was to join a fraternity. The,
-most of the interesting action on campus would be centerd around the
+issues of going to Case at that time was to **join a fraternity**. The,
+most of the interesting action on campus would be centered around the
 fraternity system, and so I pledged a fraternity also in my Freshman
-year, and I guess I can say more about that, but I had mentioned that
-during the spring of my Freshman year is when my "Mad Magazine"
+year, and I guess I can say more about that.
+
+But I had mentioned that
+during the spring of my freshman year is when my *Mad Magazine*
 article came out, you know, and so that well, that led later to, later
-on I was Editor of a magazine that we founded at Case, called
-Engineering and Science Review, which wrote about topics in Science,
+on I was **editor of a magazine that we founded at Case**, called
+*Engineering and Science Review*, which wrote about topics in science,
 and I wrote an article about Potrzebie System for that publication. I
-was in the Music, I was in the Basketball; I was manager of the
-Basketball team, at Case, and I'll say a few words about that, because
+was in the music, I was in the basketball; I was **manager of the
+basketball team**, at Case.
+
+And I’ll say a few words about that, because
 after I got into computers later on, I combined that with my managing
-the Basketball team. So I devised a strange formula that I don't
+the Basketball team. So I devised a strange formula that I don’t
 believe in much any more, but anyway, I had it at the time, where you
-could compute each basketball player's real contribution to the
-game. Not just the points that he made, the baskets that he made, but
+could **compute each basketball player’s real contribution** to the
+game.
+
+Not just the points that he made, the baskets that he made, but
 really you know, taking everything into account, so for example, if
 you have possession of the ball in basketball, this is worth
-something. In fact, when you're watching a basketball game, if you
+something. In fact, when you’re watching a basketball game, if you
 sort of add one point to the score of the team who has the ball that
 sort of gives a more fair indication of what the real score is of the
-game. So possession of the ball is worth maybe one point. You can work
+game. So **possession of the ball is worth maybe one point**. You can work
 it out after the game; you can say, really, how many times, when you
 had possession of the ball did you really turn over, and fumble it, or
 you know, how many points did you really get during that series? And
 so you can work out that it may be worth only seven-tenths of a point
 or something like this. But anyway, possession of the ball is worth
-something. So if you fumble, then you've lost your team one point, or
-seven-tenths of a point. So that's a minus something for you. If you
+something. So if you fumble, then you’ve lost your team one point, or
+seven-tenths of a point. So that’s a minus something for you. If you
 steal the ball, if you recover a fumble, you gain; your team gains
-possession, so you get credit for stealing the ball. If you make a
-basket, in those days it was only two points, you don't have the
+possession, so you get credit for stealing the ball.
+
+If you make a
+basket, in those days it was only two points, you don’t have the
 three-point shots in those days, but if you can make a basket you get
-two points, but your team also loses possession, the other team gets
-possession, so you don't really; you didn't really win two points for
+two points, but **your team also loses possession**, the other team gets
+possession, so you don’t really; you didn’t really win two points for
 your team when you made the basket, you made two points, but you have
 to subtract from that, the fact that you have to get the ball
-again. So at the end, according to my formula, the sum of all the
-players' contributions would be the amount by which our team won or
+again.
+
+So at the end, according to my formula, the sum of all the
+players’ contributions would be the amount by which our team won or
 lost. But it would rate, you know, if somebody makes a shot and
 misses, then sometimes our team gets the rebound, sometimes the other
 team gets the rebound, so I, you lose a little bit for taking a shot
-and missing. So I calculated a huge number of statistics for every
+and missing. So **I calculated a huge number of statistics** for every
 player, and I had a spotter, who would call to me, and I could write
 it down, every little thing, and after the game I would go and punch
-cards that recorded all these statistics, and fed them into a little
-computer program that calculated the formula and made a list for every
+cards that recorded all these statistics, and **fed them into a little
+computer program** that calculated the formula and made a list for every
 player, what their real contribution to the game was, not just the
-field goals and all these traditional statistics. So Case's Coach, Nip
+field goals and all these traditional statistics.
+
+So Case’s Coach, Nip
 Heim, loved this system, and you know, he posted these numbers, and
 the Case News Service was always good at trying to plant interesting
 stories in the local paper, so they sent reporters out to, and we
 showed, you know, told about this formula, and IBM heard about it. So
-IBM sent out a cameraman, a camera crew, to make a film of me spotting
+**IBM sent out a cameraman**, a camera crew, to make a film of me spotting
 a game, you know, and there, our Case team playing basketball of
 course, but then, how I would punch the cards, you know, and put it
 into the IBM computer. Before they took the shot of the IBM computer,
 they planted a great, big IBM sign on the machine, so that nobody
-could fail to miss it, you know, that I was doing this, and then I'm
+could fail to miss it, you know, that I was doing this, and then I’m
 turning the buttons on the console, and getting the numbers out, and
-it's getting printed out on the IBM printer, and then the Coach is
-looking at it and posting this up. So this was a little movie that I
+it’s getting printed out on the IBM printer, and then the Coach is
+looking at it and posting this up.
+
+So this was a little movie that I
 was in, about two or three minutes long. IBM supplies this movie to
 CBS, and they put it on the Sunday Evening News with Walter Cronkite,
-and all my relatives in Florida can see me on TV. This was very
+and **all my relatives in Florida can see me on TV**. This was very
 exciting. Also US News and World Report ran a story about it, and so
 this was my connection between computing and sports, when I was at
 Case. This was also a clever way for IBM to get their advertisements
-in there, rather subtly, but it was a fun. That was when I first
+in there, rather subtly, but it was a fun.
+
+That was when I first
 realized how hard it must be to be a movie star, because I had to walk
-through these scenes six times everything, you know, punch those cards
-over and over again. So I can see, how could Audrey Hepburn possibly
-look so beautiful after the sixth take, you know?)
+through these scenes six times everything, you know, **punch those cards
+over and over again**. So I can see, how could Audrey Hepburn possibly
+look so beautiful after the sixth take, you know?
 
 [12 - University life: the fraternity system](http://webofstories.com/play/17071)
 ---------------------------------------------------------------------------------
