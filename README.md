@@ -786,258 +786,300 @@ good it could be until I kissed Jill**, when I was a sophomore.
 [14 - Bible study at university and a time of personal challenge](http://webofstories.com/play/17073)
 -----------------------------------------------------------------------------------------------------
 
-I'm not a real involved with the groovy set, I guess, throughout all
-my student time, and I remember then Jill and I started getting to
+I’m not a real involved with the groovy set, I guess, throughout all
+my student time, and I remember then **Jill and I** started getting to
 know each other real well, and we would go to church together on
-Sundays. She was a Methodist, I, we studied, we went to Bible Study
-classes at her church on Sunday School. I had never gone to Sunday
+Sundays. She was a Methodist, I, we studied, **we went to Bible Study
+classes** at her church on Sunday School. I had never gone to Sunday
 School, because I went to a Lutheran School as a child. We had
 something about Bible during the week, so why should I do something,
-why should I do anything more on Sunday? I've had plenty of religion
+why should I do anything more on Sunday? I’ve had plenty of religion
 during the week. But she had gone to public school and she, her
 tradition was to go to study the Bible on Sunday mornings, and so I
-went with her to church, and I learned something about that. In
-college, our teachers were, I was introduced to lots of atheists, and
+went with her to church, and I learned something about that. 
+
+In
+college, our teachers were, I was introduced to lots of **atheists**, and
 people from lots of different religious experiences and this was
 something totally different, totally foreign to my previous
-experience, and I, so I went through a time of personal challenge,
+experience, and I, so **I went through a time of personal challenge**,
 where I was trying to say, well, what do I really believe? Up to that
 time I had just, I had just listened to what my teachers said and
-passed the exams, and did what was expected of me, but I internalised
+passed the exams, and did what was expected of me, but I internalized
 something about what, you know, is there a God, and if so, how do you
-solve various paradoxes associated with God? And I went through that
+solve various paradoxes associated with God? 
+
+And I went through that
 kind of experience during the Freshman and Sophomore years mostly in
 college, before I became somewhat comfortable with my, with
-internalising what I had been taught as a child. And I'm sure that if
-I'd come from another background, I would have turned out differently,
+internalizing what I had been taught as a child. And I’m sure that if
+I’d come from another background, I would have turned out differently,
 but, and I personally believe now that God is alive in many ways, but
-I do believe, you know, I do believe that God is somehow,
-mysteriously, involved with our universe, and that underlies a lot of
-what I do, and I also know I will never be able to prove it, but I'm
+I do believe, you know, **I do believe that God is somehow,
+mysteriously, involved with our universe**, and that underlies a lot of
+what I do, and I also know I will never be able to prove it, but I’m
 thankful that I could never prove it, because if it was proved, I
 think then I would lose interest in the whole subject; there would be
-no mystery, and no interest in it. So I, as they say, the growing up
-in a religious way took place during this time, when I'm meeting my
-future wife.)
+no mystery, and no interest in it.
+
+So I, as they say, the growing up
+in a religious way took place during this time, when I’m meeting my
+future wife.
 
 [15 - Extra curricular activities at Case](http://webofstories.com/play/17074)
 ------------------------------------------------------------------------------
 
-I was on lots of sports teams, the cross country team, baseball. We
+I was on **lots of sports teams**, the cross country team, baseball. We
 would have a chance to; we would have a chance to travel to lots of
 other places then, with the team. That was fun as well. I worked on, I
-was the founding Editor of this magazine, "The Engineering and Science
-Review", and then, active in various other things, for example I was
-Vice President of my fraternity. There was one story about the
+was the **founding editor** of this magazine, *The Engineering and Science
+Review*, and then, active in various other things, for example I was
+**vice president of my fraternity**.
+
+There was one story about the
 newspaper and my fraternity I might as well mention. That we, I was, I
 would go to downtown Cleveland, where the newspaper was being typeset,
-and that's where I first got experience with linotype machines, and
+and **that’s where I first got experience with Linotype machines**, and
 the way real printing was done. And I would be the, at first I was the
-Copy Editor, so I would check for errors in the text, before they did
+copy editor, so I would check for errors in the text, before they did
 the final print run, and I noticed that there was a story about one of
 our Theta Chi fraternity parties, before Christmas, and it said that
 we had served hot buttered rum, and, well, it dawned on me that we
-actually weren't supposed to serve rum at a fraternity party, and
+actually weren’t supposed to serve rum at a fraternity party, and
 still, it was a linotype machine, and you had to pay for every
 correction that you made, and you had to keep your corrections to one
-line, if they had to reset several lines- So I changed it to hot
-buttered popcorn. And that worked out okay for the- for the
-story. Now, so I got more experience in writing, publishing, during
-that period, and we had the Chair of the English Department as my
-teacher, as Freshmen, and we had very good teachers also, you know, in
-my Western Civilisation class, Sophomore, Junior years, so all the
+line, if they had to reset several lines — so **I changed it to hot
+buttered popcorn**. And that worked out okay for the — for the
+story.
+
+Now, so I got more experience in writing, publishing, during
+that period, and we had the Chair of the English department as my
+teacher, as freshmen, and we had very good teachers also, you know, in
+my Western Civilization class, sophomore, junior years, so all the
 time I was writing. I was writing stories for, I was, you know,
 writing term papers, but I was also writing for campus
-publications. And I came to believe that really my education boiled
-down to 50% Mathematics, 50% English; 50%, you know, writing skills,
+publications. And I came to believe that really **my education boiled
+down to 50% mathematics, 50% English**; 50%, you know, writing skills,
 and somehow combining those two things, for the rest of my life is
-what everything else was somehow a mixture of those two things. I was
+what everything else was somehow a mixture of those two things. 
+
+I was
 in so many extra-curricular activities in fact, that Case has
 something called the Honor Key, which is based on points. You get so
 many points for being in the band, so many points for being in a
 fraternity, not very many for that, but certainly for the newspaper
 and for singing in the choir, chorus, and participating in other
-campus things, and if you get a certain number of points then you win
-the Honor Key, and at, you know, at Graduation Day they'll mention the
+campus things, and **if you get a certain number of points then you win
+the Honor Key**, and at, you know, at Graduation Day they’ll mention the
 four or five students who have won the Case Honor Key. Well, it turned
 out I had enough points to win the Honor Key, but after three years,
-and, you know, so I think I had more points, more Honor points than
-anybody else had had in the history of Case, so again I was, you know,
-a machine, saying, oh? There are points for this? Okay, I'd better do
-this. And I signed up for these things. So I was involved with lots of
-extra-curricular stuff. I also had a chance to do a little bit of
+and, you know, so I think I had more points, **more Honor Points than
+anybody else had had in the history of Case**, so again I was, you know,
+a machine, saying, “Oh? There are points for this? Okay, I’d better do
+this.” And I signed up for these things. So I was involved with lots of
+extra-curricular stuff.
+
+I also had a chance to do a little bit of
 writing music. I wrote a five-minute musical comedy for our fraternity
 to perform at the whatever they call it, the oh, I forget what it was;
 it was an annual thing, where each fraternity would put on some kind
-of a skit. Varsity Day, or something, I can't remember what we called
+of a skit. Varsity Day, or something, I can’t remember what we called
 it. And we would go to a theatre in downtown Cleveland and perform for
-whoever wanted to listen in. I wrote this five-minute musical comedy
-called "Nebbish Land", based on nebbishes, you know, these were
+whoever wanted to listen in. I **wrote this five-minute musical comedy
+called “Nebbish Land”**, based on nebbishes, you know, these were
 popular in the Greeting Card Industry at the time. And that I still
-have the score for, so maybe I'll, maybe I'll put some of the music
-for that in my book on fun and games.)
+have the score for, so maybe I’ll, maybe I’ll put some of the music
+for that in my book on fun and games.
 
 [16 - Taking graduate classes at Case](http://webofstories.com/play/17075)
 --------------------------------------------------------------------------
 
 At Case I put a lot of time into stuff out of class, but in class, I
 found a really clever way to, right now, let me brag this way to say,
-to avoid having to study too hard, for my classes. In the first place,
-I noticed though, that when I was a Sophomore, my grades started to go
-down, in the first part of my Sophomore year. And I ascribed it to too
+to **avoid having to study too hard**, for my classes. In the first place,
+I noticed though, that when I was a sophomore, my grades started to go
+down, in the first part of my sophomore year. And I ascribed it to too
 much ping-pong playing and playing cards too much in the dorm, and so;
-no, I'm sorry; this was the second half of my Freshman year. I started
-having a little problem with my grades, and so I had to give up
-ping-pong. But starting in my Sophomore Junior year, I found out that
-you could take graduate courses at Case, and they were easier than the
-undergraduate courses. The reason is that Case had really strict
+no, I’m sorry; this was the **second half of my freshman year. I started
+having a little problem with my grades**, and so I had to give up
+ping-pong.
+
+But starting in my sophomore — junior year, I found out that
+you could take graduate courses at Case, and they were **easier than the
+undergraduate courses**. The reason is that Case had really strict
 admissions requirements for undergrads, but they were fairly loose
 about admitting graduate students. I think they wanted to build up,
 you know, admit graduate students, so when you had graduate students,
-in a class, they usually didn't know as much as the undergrads did, so
-if you would take a graduate course, you didn't have as much
+in a class, they usually didn’t know as much as the undergrads did, so
+if you would take a graduate course, you didn’t have as much
 competition, you know, and the teacher would recycle stuff, and all
 this. So I started taking graduate classes, and you know, and all
-these hotshot undergrads would be taking the other classes. And as a
-result, I had accumulated also, by the time I was a Senior, I had
+these hotshot undergrads would be taking the other classes.
+
+And as a
+result, I had accumulated also, by the time I was a senior, I had
 accumulated lots and lots of graduate credits. Now, as a result then,
-Case did, on Graduation Day, Case did an unprecedented thing that had
-never been done before, they awarded me a Master's Degree,
-simultaneously with my Bachelor's Degree. And this, the Faculty had
-gotten together and made a; and voted unanimously that this should
+Case did, on Graduation Day, Case did **an unprecedented thing that had
+never been done before, they awarded me a Master’s Degree**,
+simultaneously with my Bachelor’s Degree. And this, the faculty had
+gotten together and made a, and voted unanimously that this should
 happen, and I remember, you know, that was another thing that got into
-the newspapers at the time, that they were awarding a Master's Degree
-at the same time as a Bachelor's Degree. So, but the reason was that I
-had taken these graduate courses because they were easier. I didn't, I
-don't know if I've ever told anybody else this before today, but that
-was one of the reasons I could do so many other things.)
+the newspapers at the time, that they were awarding a Master’s Degree
+at the same time as a Bachelor’s Degree. So, but the reason was that I
+had taken these graduate courses because they were easier. I didn’t, **I
+don’t know if I’ve ever told anybody else this** before today, but that
+was one of the reasons I could do so many other things.
 
 [17 - Physics, welding, astronomy and mathematics](http://webofstories.com/play/17076)
 --------------------------------------------------------------------------------------
 
-I started in Physics, and I continued in Physics; as I said, I liked
-my Math teacher very much, but I was a Physics major, and in Sophomore
-year I had another very good Physics professor, and started learning
-Quantum Mechanics, and had classes in Astronomy, and I also had a
-class called, I don't know what it was called, but it was a laboratory
-class. All Physics majors were required to know how to do things like
-welding. Now, I was always very bad at lab work, in Chemistry Lab, I
+I started in physics, and I continued in physics; as I said, I liked
+my math teacher very much, but I was a physics major, and in sophomore
+year I had another very good physics professor, and started learning
+**quantum mechanics**, and had classes in astronomy, and I also had a
+class called, I don’t know what it was called, but it was a laboratory
+class.
+
+All **physics majors were required to know how to do things like
+welding**. Now, I was always very **bad at lab work**, in chemistry lab, I
 was always the last to finish experiments, and I would break the
 beakers and get chemicals on my hands and burn them and things like
 this, and start fires, things; it was bad, but when I got into this
-welding, this class where I'm supposed to do welding, it was just
-dreadful. I mean I couldn't see, you know, I wear rather heavy
-classes, and we had to wear goggles while we were welding, but the
-goggles wouldn't fit over my glasses, so I couldn't, you know, so I
-couldn't wear my glasses and my goggles at the same time. So I'm
-sitting there with these goggles that I can't see very well out of,
-and I've got this electrical thing, which is thousands and thousands
-of volts, where I'm supposed to be welding material, but the table is
-way lower than I am; I'm kind of tall, and so I, and so here I'm
-holding this thing way out of my range, and I'm supposed to, you know,
-I'm supposed to get, solder things together, or whatever you call the
+welding, this class where I’m supposed to do **welding, it was just
+dreadful**. I mean I couldn’t see, you know, I wear rather heavy
+glasses, and we had to wear goggles while we were welding, but the
+goggles wouldn’t fit over my glasses, so I couldn’t, you know, so I
+couldn’t wear my glasses and my goggles at the same time.
+
+So I’m
+sitting there with these goggles that I can’t see very well out of,
+and I’ve got this electrical thing, which is thousands and thousands
+of volts, where I’m supposed to be welding material, but the table is
+way lower than I am; I’m kind of tall, and so I, and so here I’m
+holding this thing way out of my range, and I’m supposed to, you know,
+I’m supposed to get, solder things together, or whatever you call the
 stuff, and when I was supposed to put, to get one thing attached to
 another, the teacher would, you know, would pick it up and it would
-fall apart, by its own weight, so I was failing in welding class. And
-it was terrifying too, you see, with all this electrical juice going
-on in there, and me not being able to- My Astronomy class, I found out
-that it was very frustrating. I could pass all the exams, in fact I
-got a 100 on every exam in my Astronomy class, but secretly I hated
-the subject, and I decided that I would continue the classes as
-self-discipline, because I didn't want the teacher to know that I
-hated the class. And I figured, you know, I'm not going to be, I have
-to learn how to do stuff that I don't enjoy as well as stuff that I
-enjoy. So I studied very carefully for the exams in Astronomy, but I
-really- And why didn't I like it? I'm trying, I believe it's just
-because I was just, I couldn't imagine how, they were so different
-from Mathematics, in Astronomy you would never be able to go to the
-sun and really know what it was like there. You always had secondary
-information. If I would be an Astronomer, I would never, I would, I
-would have to die before I would know anything, which was really true,
-because it's all based on speculation. It's all based on our best
-guesses about the way the universe is, and nothing that you can really
-experience yourself, or prove correct. In Physics, the same way,
-nature is beyond our grasp, and you don't know. But Mathematics was
-different. Mathematics had this certainty about it that, where you
-could finish a problem, and you could say, you know, I know I've got
-the answer. And so I like that. It was easy. It's much easier; you
-know, I have to admire the people who, the scientists who spend their
-life and never know whether they've solved the problem or not, they
-just get supporting evidence for or against it, but to me, anyway,
-Mathematics got more and more appealing, for the reason that it gave
-me some certainty; just the opposite of the reason why religion was
-appealing, because it didn't have certainty, I mean I would feel
-unhappy of the life where I had nothing certain, and life where I had
-everything certain. In either extreme, life, it's hard for me.)
+fall apart, by its own weight, so I was **failing in welding class**. And
+it was **terrifying** too, you see, with all this electrical juice going
+on in there, and me not being able to...
 
-[18 - My maths teacher at Case and a difficult problem](http://webofstories.com/play/17077)
+My astronomy class, I found out
+that it was very frustrating. I could pass all the exams, in fact I
+got a 100 on every exam in **my astronomy class, but secretly I hated
+the subject**, and I decided that I would continue the classes **as
+self-discipline**, because I didn’t want the teacher to know that I
+hated the class. And I figured, you know, I’m not going to be, I have
+to learn how to do stuff that I don’t enjoy as well as stuff that I
+enjoy. So I studied very carefully for the exams in astronomy, but I
+really — and why didn’t I like it? 
+
+I’m trying, I believe it’s just
+because I was just, I couldn’t imagine how, they were so different
+from mathematics, in astronomy you would never be able to go to the
+sun and really know what it was like there. You always had secondary
+information. If I would be an astronomer, I would never, I would, I
+would have to die before I would know anything, which was really true,
+because it’s **all based on speculation**. It’s all based on our best
+guesses about the way the universe is, and nothing that you can really
+experience yourself, or prove correct. In physics, the same way,
+nature is beyond our grasp, and you don’t know. 
+
+But mathematics was
+different. **Mathematics had this certainty about it** that, where you
+could finish a problem, and you could say, you know, I know I’ve got
+the answer. And so I like that. **It was easy**. It’s much easier; you
+know, I have to admire the people who, the scientists who spend their
+life and never know whether they’ve solved the problem or not, they
+just get supporting evidence for or against it, but to me, anyway,
+mathematics got more and more appealing, for the reason that it gave
+me some certainty; **just the opposite of the reason why religion was
+appealing**, because it didn’t have certainty, I mean I would feel
+unhappy of the life where I had nothing certain, and life where I had
+everything certain. In either extreme, life, it’s hard for me.
+
+[18 - My math teacher at Case and a difficult problem](http://webofstories.com/play/17077)
 -------------------------------------------------------------------------------------------
 
-I gravitated toward Mathematics. And there was another reason. Our
-Mathematics teacher was very, was a very eccentric guy, and also very
-hard, my Second year Mathematics teacher, also hard to please, and he
-had quite a reputation at Case, because, a couple of years earlier, he
-had flunked the entire class. He decided that none of them was
+I gravitated toward mathematics. And there was another reason. Our
+mathematics teacher was very, was a very eccentric guy, and also very
+hard, my **second year mathematics teacher**, also hard to please, and he
+had quite a reputation at Case, because, **a couple of years earlier, he
+had flunked the entire class**. He decided that none of them was
 learning anything; he gave F to everybody in the course, so Louis
-Green was a legend at Case, and I was taking his class, as a
-Sophomore, called Basic Mathematics, which he had written the textbook
+Green was a legend at Case.
+
+And I was taking his class, as a
+sophomore, called “Basic Mathematics”, which he had written the textbook
 for himself. And that was a course where you, stuff like, lot, things
 that are different from the continuous things that physicists
 study. And there must, you know, there must be something in the way I
-grew up that made integer numbers more appealing to me. I, I mean it's
-associated with computing, as everyone knows now. Of course computers
-didn't exist, or hardly existed in those days. I'll speak more about
+grew up that made **integer numbers more appealing to me**. I, I mean it’s
+associated with computing, as everyone knows now. Of course **computers
+didn’t exist**, or hardly existed in those days.
+
+I’ll speak more about
 my first view of a computer later, but the, here we are, in Louis
-Green's Basic Mathematics class, and I'm getting to a different kind
-of Mathematics than calculus, and one day he gave a problem to the
-class. He said, here's a problem that I don't think- if anybody solves
-this problem, I'll give you an automatic A in the class. And the
+Green’s “Basic Mathematics” class, and I’m getting to a different kind
+of mathematics than calculus, and one day he gave a problem to the
+class. He said, “Here’s a problem that I don’t think — **if anybody solves
+this problem, I’ll give you an automatic A in the class**”. And the
 problem, now, it turns out, well, I can state the problem, he said, if
 you, putting parentheses around into a mathematical formula, if you
-have a formula with five variables, A, B, C, D, E. How many ways can
-you put parentheses into that formula so that you are combining two
-things at a time? So you could say, A, you could say, parenthesize AB,
+have a formula with five variables, A, B, C, D, E. **How many ways can
+you put parentheses into that formula** so that you are combining two
+things at a time?
+
+So you could say, A, you could say, parenthesize AB,
 and then parenthesize C, and then D or E, or you could start with B
 and C and combine that with A, and so different ways to do this. So if
-you start out with n of these variables, and you put, you combine with
-parenthesis, what, how many ways are there to do it? And this, by the
+you start out with *n* of these variables, and you put, you combine with
+parentheses, what, how many ways are there to do it? And this, by the
 way, is something very dear to the hearts of computer scientists now,
-because we call it the number of binary trees, with n leaves. But
+because we call it **the number of binary trees with *n* leaves**. But
 Louis Green gave us, as a problem, as a challenge, could we determine
-this number? And if anybody could, he said he'd give an A to
-them. Well. I don't know to this day whether he knew the answer to the
-problem or not, but I have found out subsequently that the answer was
-published in the 18th century, and, and had a long history. And so
+this number? And if anybody could, he said he’d give an A to
+them.
+
+Well. I don’t know to this day whether he knew the answer to the
+problem or not, but I have found out subsequently that **the answer was
+published in the 18th century**, and, and had a long history. And so
 these numbers are so famous now that one of my friends, Richard
-Stanley at MIT, has found 128 different interpretations of these
-numbers, parentheses is just one of these 128 ways. And he's collected
+Stanley at MIT, has found **128 different interpretations** of these
+numbers, parentheses is just one of these 128 ways. And he’s collected
 that many ways. In fact I had the honor of discovering number 128 last
-year, when I was with him in Sweden, but that's; anyway. My Sophomore
-year, Louis gives us this problem, and we all knew Louis's reputation,
-so we figured, why work on the problem? He'll never give out a problem
-that we could actually solve, why should we, you know, why should we
+year, when I was with him in Sweden, but that’s; anyway.
+
+My sophomore
+year, Louis gives us this problem, and we all knew Louis’s reputation,
+so we figured, **why work on the problem? He’ll never give out a problem
+that we could actually solve**, why should we, you know, why should we
 waste time on this silly thing? But it turned out that I was on the
-football, I was in the band, actually, not the football team, and our
-band was going to play in Detroit, at the football game, on Saturday,
-but I missed the bus. I got up too late, so I was, so I found out the
+football, I was in the band, actually, not the football team, and **our
+band was going to play in Detroit**, at the football game, on Saturday,
+but **I missed the bus. I got up too late**, so I was, so I found out the
 bus had just left for Detroit, and I had a whole, and I had figured
-I'd spend all, you know, a wasted day, all day in Detroit, so I
-figured, okay, I'll work on Louis, I'll spend this day thinking about
-Louis Green's impossible problem. And I got lucky, and figured, and
-found the answer to it, and so I wrote it up on two sheets of paper,
+I’d spend all, you know, a wasted day, all day in Detroit.
+
+So I
+figured, okay, I’ll work on Louis, I’ll spend this day thinking about
+Louis Green’s impossible problem. And **I got lucky, and figured, and
+found the answer to it**, and so I wrote it up on two sheets of paper,
 and turned it in on Monday morning, and he looked it over, and on
-Tuesday, he said, okay, you get an A in this class. So I'm still a
-Physics major, but I took his Math class, and so I cut class the rest
+Tuesday, he said, **“Okay, you get an A in this class.”** So I’m still a
+physics major, but I took his math class, and so I cut class the rest
 of the quarter, and he lived up to his agreement, and I got an A on
-my, on the score. Well, I felt a little guilty afterwards, having cut
-class, so I served as his grader for his course, the following
-year. But that, what was I going to say? So, but that summer I
-switched into Mathematics as a major, because of my experience with
-the welding in Physics, and because I found that Mathematics was
+my, on the score.
+
+Well, I felt a little guilty afterwards, having cut
+class, so I served as his grader for his course the following
+year. But that, what was I going to say? So, but **that summer I
+switched into mathematics as a major**, because of my experience with
+the welding in physics, and because I found that mathematics was
 something that I would be able to actually prove, prove correctness,
-and that, this appealed to me. Still, I didn't study Mathematics that
+and that, this appealed to me. Still, I didn’t study mathematics that
 much, because I already had the A, and an A was what I was looking for
-in my college grades.)
+in my college grades.
 
 [19 - My interest in graphs and my first experience of a computer](http://webofstories.com/play/17078)
 ------------------------------------------------------------------------------------------------------
