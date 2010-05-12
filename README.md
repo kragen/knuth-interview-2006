@@ -379,7 +379,7 @@ for Bo Derek is where I used the number ten, so all the way through
 I’ve had this silly streak of some sort that means I don’t take
 everything too seriously.
 
-[8 - The Potrzebie System of Weights and Meausures and the Alfred E. Newman crossword](http://webofstories.com/play/17067)
+[8 - The Potrzebie System of Weights and Meausures and the Alfred E. Neuman crossword](http://webofstories.com/play/17067)
 --------------------------------------------------------------------------------------------------------------------------
 
 While I’m on the subject of *Mad Magazine*, I might as well mention
