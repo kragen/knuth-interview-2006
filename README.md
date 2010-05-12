@@ -10,35 +10,43 @@ clean it up a bit.
 It’s about 63 000 words, so it is probably around three or four 
 hours of reading.
 
+Patches to improve the formatting and correct errors are
+welcome. Please don’t refill the paragraphs, though; it creates
+unnecessary merge conflicts.
+
 [1 - Family history](http://webofstories.com/play/17060)
 --------------------------------------------------------
 
 If you want to go way back, if you go like, 16 of my
-great-great-grandparents, in 1840 they all would have been in Germany,
-but by 1870, they all were in America. So if you know, consider all
-the different lines. My mother; my father's, the Knuth part of my
+**great-great-grandparents, in 1840 they all would have been in Germany,
+but by 1870, they all were in America**. So if you know, consider all
+the different lines. My mother; my father’s, the Knuth part of my
 ancestry was the most diverse, in a way. He came from
 Schleswig-Holstein, rather near the border with Denmark, and he was
 the last to come over; during the Schleswig-Holstein crisis in the
 1860s; I think it was 1864, probably, he went AWOL from the army; he
-didn't want to fight against the Prussians, and he decided to come to
+didn’t want to fight against the Prussians, and he decided to come to
 America, and knocked on the window one night, and told his parents,
-I'm out of here, and wound up in Illinois, and then worked, learned to
-be a blacksmith at that time. So then his wife was somebody he met in
-America. She had come- Her family had come over earlier from the
+I’m out of here, and wound up in Illinois, and then worked, learned to
+be a blacksmith at that time.
+
+So then his wife was somebody he met in
+America. She had come — her family had come over earlier from the
 Hannover area, and she lived in Indiana, all very near Chicago area,
 and so that part of the family is from a different part of Germany. My
-mother's side came; they all emigrated in 1840s, and they were farmers
-in the area of what is now Niedersachsen; it's a small town in Germany
-called Bad Essen, and they, her family came and were farmers in Ohio,
-near Cleveland Ohio. So they, yeah, the background then is, my
-father's side round Chicago, where he was born and grew up, and my
-mother's side from Cleveland Ohio, where she was born. My dad's first
-teaching assignment was in Cleveland, and that's where he met my
+mother’s side came; they all emigrated in 1840s, and they were **farmers
+in the area of what is now Niedersachsen**; it’s a small town in Germany
+called **Bad Essen**, and they, her family came and were farmers in Ohio,
+near Cleveland, Ohio. So they, yeah, the background then is, my
+father’s side round Chicago, where he was born and grew up, and my
+mother’s side from Cleveland Ohio, where she was born.
+
+My dad’s first
+teaching assignment was in Cleveland, and that’s where he met my
 mom. Then he got a call to Milwaukee, which was way far from any of
 their, you know, anybody else in the family, because it was a job that
 opened up, so he went and took this job at a school that needed a
-teacher.)
+teacher.
 
 [2 - Learning to read and school](http://webofstories.com/play/17061)
 ---------------------------------------------------------------------
