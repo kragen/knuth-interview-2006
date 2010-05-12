@@ -691,83 +691,97 @@ look so beautiful after the sixth take, you know?
 [12 - University life: the fraternity system](http://webofstories.com/play/17071)
 ---------------------------------------------------------------------------------
 
-At Case, as I said, I pledged a fraternity. That was one of the things
-that- I'd met a few Case graduates in Milwaukee, or Case students,
-before, and they said- oh, Don, fraternities are the big thing at;
-you've got to take that very seriously when you go there. Well,
+At Case, as I said, **I pledged a fraternity**. That was one of the things
+that — I’d met a few Case graduates in Milwaukee, or Case students,
+before, and they said — oh, Don, fraternities are the big thing at;
+you’ve got to take that very seriously when you go there. Well,
 anyway, the fraternity system was maybe a little different then than
 it is now. It certainly had its pros and cons, but it was a big; it
-was certainly a focus of my life at Case, because after my Freshman
+was certainly a focus of my life at Case, because after my freshman
 year I would live at the fraternity, and with all my fraternity
-brothers. The first thing, though, was something we called Hell
-Week. Raising. This is, or hazing, I mean. I'm sorry, forget that I
+brothers. 
+
+The first thing, though, was something we called Hell
+Week. Raising. This is, or **hazing**, I mean. I’m sorry, forget that I
 said raising. And for seven days, all of us pledges, before we could
 become full-fledged fraternity members, were at the mercy of all the
 other brothers, who would have their paddles, and also, you know, we
 were sleep deprived, and basically they were, we were also cleaning
-the fraternity house, so that's when I learned about ammonia and
-painting things, and scrubbing walls, and doing other, you know,
+the fraternity house, so **that’s when I learned about ammonia and
+painting things**, and scrubbing walls, and doing other, you know,
 fixing the roof, and things like this, that we would be doing, but
 then, but meanwhile they would also, they would play tennis where we
 were the balls, and they would, you know, swat us, and it hurt; and do
 other things to make sure that, you know, we knew that they had the
-power and we were just unimportant now, so this is illegal now, and,
-but it was my equivalent of going through boot camp, I guess, which,
+power and we were just unimportant now.
+
+So **this is illegal now**, and,
+but it was **my equivalent of going through boot camp**, I guess, which,
 you know, I never went into military service. And, you know, I matured
-an awful lot during that week. After that week, and I'd gotten through
-without the, you know, this time, I had a confidence that I'd never
-had before, so it's hard for me to say that I wouldn't want my son to
-go through the same thing. I don't think he ever did, but it's a
+an awful lot during that week. After that week, and I’d gotten through
+without the, you know, this time, I had a confidence that I’d never
+had before, so **it’s hard for me to say that I wouldn’t want my son to
+go through the same thing**. I don’t think he ever did, but it’s a
 paradoxical thing, in my estimation. Still, that was part of getting
 into the fraternity, and I have a picture of myself that they took at
 the end of it, unshaven, and looking pretty beat, but still knowing
-that I had come through an ordeal, which was something; it's a
+that I had come through an ordeal, which was something; it’s a
 question in my mind, how to really give that education to somebody in
-a way that is legal, would be legal. Now we'd have people suing.)
+a way that is legal, would be legal. Now we’d have people suing.
 
 [13 - Meeting my wife Jill](http://webofstories.com/play/17072)
 ---------------------------------------------------------------
 
 At my fraternity, my best friend, who was also in the Honor Section at
-Case, his name is Bill Davis, he now, by the way, is a Mathematics
-Professor at Ohio State, and is very active in Internet online
-education for teaching Mathematics, but anyway, Bill and I were bosom
-buddies during my Freshman year, and he, and then also in the
-Sophomore year we both pledged Theta Chi fraternity, and so then we
+Case, his name is Bill Davis, he now, by the way, is a mathematics
+professor at Ohio State, and is very active in internet online
+education for teaching mathematics, but anyway, **Bill and I were bosom
+buddies during my freshman year**, and he, and then also in the
+sophomore year we both pledged Theta Chi fraternity, and so then we
 also went through Hell Week together and had rooms next to each other
-in the fraternity house. So I started to date a girl at Western
+in the fraternity house.
+
+So **I started to date a girl** at Western
 Reserve University; her name was Betsy, and her roommate was named
-Jill, and Bill was dating Jill, so I was- now, Betsy was Catholic, and
+Jill, and **Bill was dating Jill**, so I was — now, Betsy was Catholic, and
 I was Lutheran, and this was something that we thought, well, our
 families would never be able to understand, but still I thought that
-Betsy was pretty terrific, but I was also dating a girl named Becky, a
-Jewish girl, whose father owned a department store in Cleveland and I
-was dating some nurses too, you know, there were lots of girls would
+Betsy was pretty terrific, but **I was also dating a girl named Becky**, a
+Jewish girl, whose father owned a department store in Cleveland and **I
+was dating some nurses too**, you know, there were lots of girls would
 hang out around the Case area, and, but I was mostly interested in
-this Betsy, and I was, I decided to, and we'd had double dates with
+this Betsy, and I was, I decided to, and we’d had double dates with
 Bill Davis and his girl Jill, and as I said, Betsy and Jill were
-roommates; Bill and I were roommates. So I was wondering, you know,
-how I'd ever be able to make more of a hit with Betsy, and I decided I
-would have lunch with Jill, to ask her for advice. And so this was
-probably the, my Sophomore year, the spring of my Sophomore year, and,
+roommates; Bill and I were roommates.
+
+So I was wondering, you know,
+how I’d ever be able to make more of a hit with Betsy, and I decided I
+would have **lunch with Jill, to ask her for advice**. And so this was
+probably the, my sophomore year, the spring of my sophomore year, and,
 you know, she was such a good listener, and gave such good advice,
-that I started dating Jill instead, and well, I'm not sure Bill ever
-forgave me for that, but she didn't really like him, she thought, she
-said, well, anyway. Well, anyway, Jill is the one that I eventually
-got pinned to, and engaged to and married to, and we've been married
-now for 45 years. And Jill and I started having dates in the library,
-where we would study together, and, you know, I found that I enjoyed
-kisses for the first time, when they came from her. In high school I
-was afraid to kiss girls, even when they would stand up, I mean I was
+that **I started dating Jill instead, and well, I’m not sure Bill ever
+forgave me for that**, but she didn’t really like him, she thought, she
+said, well, anyway.
+
+Well, anyway, Jill is the one that I eventually
+got pinned to, and engaged to and married to, and **we’ve been married
+now for 45 years**. And Jill and I started having dates in the library,
+where we would study together, and, you know, I found that **I enjoyed
+kisses for the first time**, when they came from her. In high school I
+was afraid to kiss girls, even when they would stand up.
+
+I mean, I was
 dating a girl in high school who was about four and a half feet tall,
-I don't remember her name any more, but I remember that she was real
-cute, because, I always liked short girls, because they seemed to, you
-know, have a good balance, they didn't fall over as easily as tall
+I don’t remember her name any more, but I remember that she was real
+cute, because, **I always liked short girls**, because they seemed to, you
+know, have a good balance, **they didn’t fall over as easily** as tall
 ones, and I, being tall, I was, you know, but she was a cheerleader,
 and she stood on the steps of her house, and with her lips turned up,
-and I figured I'd got to kiss her, but I'd never done this before, how
-am I going to do it you know. And so I did, but I never realized how
-good it could be until I kissed Jill, when I was a Sophomore.)
+and I figured I’d got to kiss her, but I’d never done this before, how
+am I going to do it you know.
+
+And so I did, but **I never realized how
+good it could be until I kissed Jill**, when I was a sophomore.
 
 [14 - Bible study at university and a time of personal challenge](http://webofstories.com/play/17073)
 -----------------------------------------------------------------------------------------------------
