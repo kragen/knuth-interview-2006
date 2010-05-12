@@ -1,0 +1,39 @@
+#!/usr/bin/perl -w
+use strict;
+use LWP::Simple qw(get);
+
+my @ids = (17060..17156);
+
+for my $id (@ids) {
+    my $url = "http://webofstories.com/play/$id";
+    my $page = get $url;
+    my @lines = split /\n/, $page;
+    my ($title, $body);
+    for (0..$#lines) {
+        if (not defined $title and $lines[$_] =~ /<h3>/) {
+            $title = $lines[$_+1];
+            for ($title) { s/\s+/ /g; s/^\s*//; s/\s*$// }
+        }
+        if ($lines[$_] =~ /<div class="transcriptText">/) {
+            # Usually it's a single line‚ but in e.g. 
+            # <http://webofstories.com/play/17066> it's actually multiple 
+            # paragraphs (missing the <p> tags in HTML!)
+            for my $endline ($_..$#lines) {
+                if ($lines[$endline] =~ m|</div>|) {
+                    $body = join "\n", @lines[$_+1..$endline-1];
+                    last;
+                }
+            }
+            for ($body) { s/[\t\r ]+/ /g; s/^\s*//; s/\s*$// }
+        }
+    }
+    my $____ = "-" x ((length $title) + (length $url) + 4);
+    print <<EOF;
+[$title]($url)
+$____
+
+$body
+
+EOF
+    sleep 1;
+}
