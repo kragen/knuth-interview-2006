@@ -1348,31 +1348,35 @@ that they finally wound up doing; they played safe moves instead of
 brilliant moves, but it was anyway, a good learning experience for me,
 writing this tic-tac-toe program.
 
-[23 - Learning about Symbolic Optimum Assembly programs and the Internal Translator (Part 1)](http://webofstories.com/play/17082)
+[23 - Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 1)](http://webofstories.com/play/17082)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 My family went to a summer camp in, on the shore of Lake Erie for a
-week, that summer, and, Linwood, it's called. I revisited it a couple
-of years ago, to remember. Anyway, it's on the beach, two weeks we
+week, that summer, and, Linwood, it’s called. I revisited it a couple
+of years ago, to remember. Anyway, it’s on the beach, two weeks we
 were there, and I would play tennis with my uncles and so on, but I
-also had brought with me the, a couple of examples of computer
-programs that I had heard about, and so I had some spare time while
-I'm at the summer place, to look at these programs. And this made a
-big influence on my future life, actually. One of the programs was
+also **had brought with me the, a couple of examples of computer
+programs that I had heard about**, and so I had some spare time while
+I’m at the summer place, to look at these programs. And this made a
+big influence on my future life, actually.
+
+One of the programs was
 what they call an assembler, which was, meant that instead of writing
 in the machine language, you could write in a more symbolic language
 that would make it easier for, I mean I, when I started my programming
-I was just programming everything in numbers. And so, if I wanted to
+**I was just programming everything in numbers**. And so, if I wanted to
 add, add a number in location one to the number in location two, I
 would have to say something like, 20, oh, oh, one, something, anyway,
-I would have to write all these numbers out, and punch them into
-cards, and get it to work, and this was all I knew, when I started
-programming. But then the symbolic, the assembly program was a
-new-fangled thing at the time, and allowed me to do it in a way that's
-more easier to understand. Instead of choosing a number for every
-place in my program, I could give it a name, and then the machine
+I would have to **write all these numbers out, and punch them into
+cards**, and get it to work, and this was all I knew, when I started
+programming.
+
+But then the symbolic, the assembly program was a
+new-fangled thing at the time, and allowed me to do it in a way that’s
+more easier to understand. **Instead of choosing a number for every
+place in my program, I could give it a name**, and then the machine
 would figure out the, you know, what number to associate with that
-name. And in those days computers couldn't deal with letters very
+name. And in those days computers couldn’t deal with letters very
 well, the computers were more set up for numbers, but we were allowed
 to use capital letters, so we had, so, and in this assembler we could
 use five capital letters, for a word, and I remember specifically when
@@ -1381,105 +1385,123 @@ think, what five-letter word would I use to indicate a current part of
 the program, and I remember, you know, with delight, when I want in my
 tic-tac-toe program, when it wins, I would go to location BINGO. So I
 could use the five-letter word B, I, N, G, O, for that part of the
-program. Okay, so I'm learning about a symbolic assembler at this
-time, and so I got the code, all right? So I'm using the assembler,
-but I was wondering how it did it? How did you know, how, what went
+program.
+
+Okay, so I’m learning about a symbolic assembler at this
+time, and so I got the code, all right? So I’m using the assembler,
+but **I was wondering how it did it**? How did you know, how, what went
 on, behind the scenes that would take my symbolic thing that said,
 BINGO, and put it into numbers that the machine would understand
 directly? And so I had the listing for this program called SOAP Two,
-by Stan Poley of IBM. Then I had also brought with me another listing,
+by Stan Poley of IBM.
+
+Then I had also brought with me another listing,
 from a program called IT, or Internal Translator, and this was a new
 program; had come from Carnegie Tech, later Carnegie Mellon
-University, written by four people at Carnegie, and IT took an
-algebraic language, instead of a machine language. So you're writing
-here; it's a; this is early days, this was before FORTRAN or other
-high-level languages were known. I'm talking here of 1956, 1957. The
-idea here then, you can write X = A + B. Ah, well, you couldn't really
-write that because we didn't have plus signs, so we would really
+University, written by four people at Carnegie, and IT took **an
+algebraic language**, instead of a machine language. So you’re writing
+here; it’s a; this is early days, this was before FORTRAN or other
+high-level languages were known. I’m talking here of 1956, 1957. The
+idea here then, you can write X = A + B. Ah, well, **you couldn’t really
+write that because we didn’t have plus signs**, so we would really
 write, X one, Z, X two, S, X three, where S stood for plus, and Z
 stood for equals, and, you know, and every variable was X one, X two,
 X three or something like this, but anyway, you could put in algebraic
 formula on your card, and then the machine would figure out, from
 that, how to compute A + B and store it in X, or whatever you wanted
-it to do. So instead of a numeric thing; instead of a symbolic version
+it to do.
+
+So instead of a numeric thing; instead of a symbolic version
 of a numeric thing, it was algebraic, and you would put your program
 from the IT language into the computer, and it would flash the lights
 for a while, and then, punch, punch, punch, punch, and give you a
-machine language, in the computer's language. Magic. I couldn't; I
-hadn't a clue as to how this was possible at all, so I got a copy of
+machine language, in the computer’s language. Magic. I couldn’t; **I
+hadn’t a clue as to how this was possible** at all, so I got a copy of
 the program that they had used, to write this IT, translator, and I
 had a copy of the SOAP program, the Symbolic Assembly, the Symbolic
-Optimum Assembly program.)
+Optimum Assembly Program.)
 
-[24 - Learning about Symbolic Optimum Assembly programs and the Internal Translator (Part 2)](http://webofstories.com/play/17083)
+[24 - Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 2)](http://webofstories.com/play/17083)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 I brought this to the summer place, and I spent nights looking at it
-and psyching out how this program worked. And, wow, I found; first I
-figured out how this IT worked, and so, oh yeah, that's how they can
+and psyching out how this program worked. And, wow, I found; first **I
+figured out how this IT worked**, and so, oh yeah, that’s how they can
 look in the algebraic formula and convert it into instructions, but
 then, it was terrible style. The program was kludgy. You would read
-it, and every time they would do something, they did it the hard
-way. I looked at the SOAP program, the one that came by Stan Poley, it
-was elegant; it was beautiful; it was like hearing a symphony. It was,
+it, and **every time they would do something, they did it the hard
+way**. I looked at the SOAP program, the one that came by Stan Poley, **it
+was elegant; it was beautiful; it was like hearing a symphony**. It was,
 whenever it did an instruction, the instruction was sort of
 accomplishing two things at once. Everything fit together
-harmoniously; it was elegant code. I said, boy, I'd love to write
+harmoniously; it was elegant code.
+
+I said, boy, I’d love to write
 programs like this guy can do. And conversely, you know, this clumsy,
 clunky code that came from the other one, wow. You know, I can do
-better than that. So a couple of friends and I wrote an improvement of
-IT, which we called RUNCIBLE; every program had to have an acronym in
+better than that. So **a couple of friends and I wrote an improvement of
+IT, which we called RUNCIBLE**; every program had to have an acronym in
 those days, and RUNCIBLE was Revised Unified New Compiler IT Basic
 Language Extended or something. We had some reason for the word R U N
 C I B L E. But we, but mainly we had, we wanted to redo that algebraic
 language in a way that was more elegant and had more features, and so
 improve it in, you know, in lots of ways and still stay within our ten
-K bytes. And so that was how I spent my first summer at the Computer
+K bytes.
+
+And so that was how I spent my first summer at the Computer
 Center. It turned out that after RUNCIBLE was done, we also, I wrote a
-User's manual, for how to write, you know, how to use this program,
-and curiously, this User's Manual was then used as a text book for
-students the next year. And so I was in the unusual position of taking
-a class for which I had written the textbook, when I was a Sophomore,
-one of my classes in computing. Now, RUNCIBLE, we revised it the next
+user’s manual, for how to write, you know, how to use this program,
+and curiously, this user’s manual was then used as a text book for
+students the next year. And so **I was in the unusual position of taking
+a class for which I had written the textbook, when I was a sophomore**,
+one of my classes in computing.
+
+Now, RUNCIBLE, we revised it the next
 summer, and made it really, lots of bells and whistles, and still with
-our ten K bytes, but we got a floating point attachment, and we had
+our ten K bytes, but we got a **floating point attachment**, and we had
 some other things, so it was, so my friends and I came up with better
-versions. So here, this, and I also wrote a SOAP Three, I loved the
+versions.
+
+So here, this, and **I also wrote a SOAP Three**, I loved the
 SOAP Two program we had from IBM, I wrote SOAP Three, which, which
 improved on SOAP Two, and this was used as the assembler program for
 other software development that we were doing. So here are Case is
-allowing about a dozen of us undergrads to write software that's being
-used by the other students and faculty of Case, and I, the, Fred Way,
-who is the Director of this program, was very fore-sighted, able to
+allowing about a dozen of us **undergrads to write software** that’s being
+**used by the other students and faculty** of Case, and I, the, Fred Way,
+who is the director of this program, was very fore-sighted, able to
 trust the students, and allow, and you know, and to, and we had a, we
 had lots of fun talking to each other about all these issues, and we
-did- new literature of journals- "The Communications of the ACM"
+did — 
+
+New literature of journals — the *Communications of the ACM*
 started up in 1958. All of a sudden we saw that there was, there were
 people publishing ideas from other parts of the world, about how to
-write programs, and we knew that we had already discovered a lot of
-these things too, and we had some better science out there. So my
-second technical publication, after Potrzerbie System for "Mad
-Magazine", my second technical publication was about this RUNCIBLE;
-the method we'd used in RUNCIBLE, to do the conversion of formulas
-into machine code. And here I sent it to this magazine, "The
-Communications of the ACM", which was, which we had just, began, just,
-had just begun to come out, and I was totally naÃ¯ve, not
+write programs, and we knew that **we had already discovered a lot of
+these things too, and we had some better science** out there. So my
+second technical publication, after Potrzebie System for *Mad
+Magazine*, **my second technical publication** was about this RUNCIBLE;
+the method we’d used in RUNCIBLE, to do the conversion of formulas
+into machine code. And here I sent it to this magazine, the
+*Communications of the ACM*, which was, which we had just, began, just,
+had just begun to come out, and I was totally naïve, not
 understanding anything about scientific journals or publication
-conventions. I had been seeing magazines; I knew what magazines were,
-and so on, but no people, but there was no idea of credit for
+conventions.
+
+I had been seeing magazines; I knew what magazines were,
+and so on, but no people, but there was **no idea of credit** for
 something like this. It was just the story that was important. And so,
 when I wrote this up, I was, I considered myself to be a spokesperson,
 spokesman for these guys at Case Computer Center, who had been working
-together to create RUNCIBLE, and I, you know, so I, so I wrote an
-article about the methods that are used in RUNCIBLE. Nowhere in the
+together to create RUNCIBLE, and I, you know, so I, so **I wrote an
+article about the methods that are used in RUNCIBLE**. Nowhere in the
 article did I mention the names of these other guys, who had been
-working on it, and I didn't know that I was going to be getting credit
+working on it, and **I didn't know that I was going to be getting credit**
 for any of these ideas, I just wanted to describe the ideas, and so
 this was a, you know, a, I learned later more about, about the
 scientific conventions of publication, but I was just, you know, I was
-just a journalist, and I was treating the story as that. So we set the
+just a journalist, and I was treating the story as that. So **we set the
 story right when the article was published as part of my collected
-works a couple of years ago.)
+works a couple of years ago.**
 
 [25 - Adding more features to RUNCIBLE](http://webofstories.com/play/17084)
 ---------------------------------------------------------------------------
