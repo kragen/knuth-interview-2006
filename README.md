@@ -826,7 +826,7 @@ So I, as they say, the growing up
 in a religious way took place during this time, when I’m meeting my
 future wife.
 
-[15 - Extra curricular activities at Case](http://webofstories.com/play/17074)
+[15 - Extracurricular activities at Case](http://webofstories.com/play/17074)
 ------------------------------------------------------------------------------
 
 I was on **lots of sports teams**, the cross country team, baseball. We
@@ -1085,20 +1085,22 @@ in my college grades.
 ------------------------------------------------------------------------------------------------------
 
 How did I get into computers? I had a scholarship to Case, but it was,
-it didn't cover my whole tuition; it just covered part of the tuition,
-and so I took a part time job. My parents had no money, and I took a
-part time job working in the Statistics Department. Taking, and one of
+it didn’t cover my whole tuition; it just covered part of the tuition,
+and so I took a part time job. My parents had no money, and I took **a
+part time job working in the Statistics Department**. Taking, and one of
 the things I would do, would run a card sorter, an IBM card sorting
 machine, which was kind of a fascinating thing. You put the; take
 these punched cards, and you put them in the thing, and it distributes
 into different pockets, and then you pull them out in certain orders,
 and afterwards look at the results, and you draw graphs. And so I was
-drawing graphs, for the Statistics Department. I guess I should say
+drawing graphs for the Statistics Department. 
+
+I guess I should say
 something more about graphs, while it flashes into my mind. In high
-school, I had taken time, one summer, working with; I was fascinated
-by this idea of graphs in Mathematics, where you have, you know, as a
+school, I had taken time, one summer, working with; I was **fascinated
+by this idea of graphs** in mathematics, where you have, you know, as a
 function, as variable X varies, you have Y as a function of X, then
-you draw the position that's Y units above the axis, and it makes a
+you draw the position that’s Y units above the axis, and it makes a
 picture. And since I like visual things, I was fascinated by the idea
 that I might be able to take, start with the picture that I wanted to
 do, and find the equation that would, when you graph the equation, you
@@ -1106,42 +1108,52 @@ would get that picture. And so I played around with graphs. I spent
 one summer in high school, I had drawn hundreds and hundreds of
 graphs, where I would take, where I would take an equation like the
 square root of X? + 5, 5x, minus something else, and I would, and then
-I would draw the graph. And I had, and my dad had a little calculating
-machine, which was a, where I, which could calculate square roots. It
+I would draw the graph. 
+
+And I had, and **my dad had a little calculating
+machine**, which was a, where I, which could calculate square roots. It
 actually would print it out. He was an accountant, so it would also
 print it out on tape, that I could run this machine and it would do
 the multiplying and stuff for me, and then I would have this function
 of, and then I would say, instead of X? + 5x, I would maybe change it
 to X? plus 4x, and draw that graph too, until I would learn how
-different graphs looked. I didn't have calculus, I didn't know
+different graphs looked. 
+
+I didn’t have calculus, I didn’t know
 calculus in high school, but I did know how to graph an equation, and
 that fascinated me, so I had played, I worked so hard on this, in
-fact, on this orange graph paper that I had, I started to get
-headaches, it was not easy on the eyes, and I think I started wearing
+fact, on this orange graph paper that I had, **I started to get
+headaches**, it was not easy on the eyes, and I think I started wearing
 heavier glasses at this time, because I worked on the graphs, but this
 had given me some experience with graphs, and liked, I liked that kind
-of Mathematics, even when I was in high school. So now, I got my
-first, I got my first part time job at Case; I'm supposed to draw
-graphs for the Statisticians. So that's fine, and downstairs from the
+of mathematics, even when I was in high school. 
+
+So now, I got my
+first, I got my first part time job at Case; I’m supposed to draw
+graphs for the statisticians. So that’s fine, and downstairs from the
 sorting machine was a new computer, an electronic brain, as they
 called it, in those days, and it was the first, it was called the IBM
-Model 650. This was the, historically, the first computer that was
-mass produced; there were more than 1,000 of them. Before that,
+Model 650. This was the, historically, **the first computer that was
+mass-produced**; there were more than 1,000 of them. Before that,
 computers had; no computer had been made more than a few dozen at the
-most. And this computer arrived, about midway in my Freshman year at
+most.
+
+And this computer arrived, about midway in my Freshman year at
 Case, and it was sitting in a room downstairs from the Statistics
 laboratory, where I was working. So I could peer through the window at
 this computer, and with its flashing lights it looked rather
 exciting. And one day a guy saw me looking through the window, and he
-said, he invited me to come in, and he explained to me how the machine
-worked, and so it was quite fascinating to me that it could do things
+said, **he invited me to come in, and he explained to me how the machine
+worked**, and so it was quite fascinating to me that it could do things
 much different than this mechanical calculating machine that my dad
-had shown me. So I took a look at the operating manuals for the
-machine, and pretty soon I, he allowed me to punch cards that would go
+had shown me.
+
+So I took a look at **the operating manuals for the
+machine**, and pretty soon I, he allowed me to punch cards that would go
 into that machine, as what; you know, I knew how to run a sorter, but
 now I could actually punch a card that would make a computer
 program. And I, and so I began to learn something about the inside of
-this machine.)
+this machine.
 
 [20 - Learning how to program on the IBM 650 (Part 1)](http://webofstories.com/play/17079)
 ------------------------------------------------------------------------------------------
@@ -1149,45 +1161,53 @@ this machine.)
 I read the manuals that came from IBM, and it had; the manuals had
 example programs in there, and I thought of better ways to write those
 programs. I thought of, you know, well, okay, this program works, but
-if you did it this way, it would be even better. And so that's given
-me some confidence that maybe I had a talent for programming. Now, if
-the manual hadn't had these bad examples in it, I probably would not
-have gotten interested in programming, because I wouldn't have this
+if you did it this way, it would be even better. And so that’s given
+me some confidence that maybe I had a talent for programming. Now, **if
+the manual hadn’t had these bad examples in it, I probably would not
+have gotten interested in programming**, because I wouldn’t have this
 confidence, and I would have been scared and say, oh, I would never
-think of this. But the fact is, the manuals were pretty stupid, and
-that's what gave me the confidence that I should think a little more
+think of this.But the fact is, the manuals were pretty stupid, and
+that’s what gave me the confidence that I should think a little more
 about programming, because I might be, you know, I might be good at
-it. So, you know, I started to learn a little bit about computers in
+it.
+
+So, you know, I started to learn a little bit about computers in
 my Freshman year, then when I pledge at the fraternity, one of the
 fraternity brothers had a problem that he needed to solve, and he was
-eval- finding the roots of fifth degree equations. And I had learned
+eval — **finding the roots of fifth degree equations**. And I had learned
 about a program called the Bell Interpretive System that was, that
-looked like it wouldn't be too hard to solve this problem on, and so,
-since he was, you know, he didn't really want to do it himself, so for
+looked like it wouldn’t be too hard to solve this problem on, and so,
+since he was, you know, he didn’t really want to do it himself, so for
 my fraternity brother I wrote a, I wrote something that would, could
-do one of his homework problems for him, and that was, and it seemed
+**do one of his homework problems for him**, and that was, and it seemed
 to run correctly the first time. I find it hard to believe, now, but
-it, as far as I know, it did. And so he was happy about that, and I,
-you know, and I got more involved with the people at the Computing
-Center, where, when I, when they stared letting me use this IBM
-machine during the night. And so between my Freshman and Sophomore
-year, I was, I had a part time job at the Computing center, working
+it, as far as I know, it did.
+
+And so he was happy about that, and I,
+you know, and I got more involved with the people at the computing
+center, where, when I, when they stared letting me use this IBM
+machine during the night. And so between my freshman and sophomore
+year, I was, I had **a part time job at the computing center**, working
 for them. Really, they allowed us to write software that other people,
-other students, would be using. The first computer program I wrote,
+other students, would be using.
+
+The first computer program I wrote,
 and it was the following; I had to find the prime factors of a
 number. So you would dial in on the console of the machine; there were
 rotary switches, and you could set the switch to some number, like
 100, and then it would punch out 100 is equal to two times two, times
-five, times five. So we find the prime factors of the number you dial
-on the console switches. I still have a copy of my program for that,
-that I wrote, and it stared out something like 60 or 70 instructions
+five, times five. So we **find the prime factors of the number you dial
+on the console switches**.
+
+I still have a copy of my program for that,
+that I wrote, and it started out something like 60 or 70 instructions
 in the program originally, and two weeks later I had the program
 working correctly, and it had about 130 instructions in it, and I
-think I had removed more than 200 errors, during the time. I mean I
+think I had removed **more than 200 errors**, during the time. I mean I
 not only learned about programming, but about making errors. So what
-can go wrong when you? Well, anyway, I did, I didn't really know that
+can go wrong when you? Well, anyway, I did, I didn’t really know that
 much about programming, at the time, but I learned it a heck of a lot
-by this exercise of trying to find prime factors of a number.)
+by this exercise of trying to find prime factors of a number.
 
 [21 - Learning how to program on the IBM 650 (Part 2)](http://webofstories.com/play/17080)
 ------------------------------------------------------------------------------------------
