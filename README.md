@@ -1495,7 +1495,7 @@ spokesman for these guys at Case Computer Center, who had been working
 together to create RUNCIBLE, and I, you know, so I, so **I wrote an
 article about the methods that are used in RUNCIBLE**. Nowhere in the
 article did I mention the names of these other guys, who had been
-working on it, and **I didn't know that I was going to be getting credit**
+working on it, and **I didn’t know that I was going to be getting credit**
 for any of these ideas, I just wanted to describe the ideas, and so
 this was a, you know, a, I learned later more about, about the
 scientific conventions of publication, but I was just, you know, I was
@@ -1509,103 +1509,121 @@ works a couple of years ago.**
 In those days, computing was so different from what it is now, not
 only was the memory tiny, only ten K, and the speed was slow, but also
 we, the way we wrote programs, well maybe as a result of that, the way
-we wrote programs was something I would never do today, because in
+we wrote programs was something I would never do today, because **in
 order to pack it into this small memory, we had to do, resort to some
-trickery that was almost impossible to understand, and therefore
-highly likely to cause errors, but one of the things we learned as,
-early in trying to write software, is that the users of your software
-always suggest new features, and they're never satisfied. You give
-them ten things, and they'll want ten more, and so we kept adding
-features and features. That's called creeping featurism now. But we
+trickery that was almost impossible to understand**, and therefore
+highly likely to cause errors.
+
+But one of the things we learned as,
+early in trying to write software, is that **the users of your software
+always suggest new features**, and they’re never satisfied. You give
+them ten things, and they’ll want ten more, and so we kept adding
+features and features. That’s called creeping featurism now. But we
 had only this tiny machine, so how were we going to pack more and more
-features, when there's no space for it? And the answer is, we use more
-and more tricks. So in this compiler RUNCIBLE, there were four
-versions of the compiler. You could ask it to produce computer
-instructions for a machine that did, that had the so-called floating
-point attachment, or maybe your computer didn't have the floating
-point attachment, so you either had floating point or not. If you
-didn't have the attachment, then you would have to go through a slower
-routine that would simulate, and pretend that the attachment's
+features, when there’s no space for it? And the answer is, we use more
+and more tricks.
+
+So in this compiler RUNCIBLE, there were **four
+versions of the compiler**. You could ask it to produce computer
+instructions for a machine that did, that had the so-called **floating-point
+attachment**, or maybe your computer didn’t have the floating-point
+attachment, so you either had floating point or not. If you
+didn’t have the attachment, then you would have to go through a slower
+routine that would simulate, and pretend that the attachment’s
 there. Then you could also ask it to compile directly into machine
-language, or you could ask it to compile into the symbolic assembler
-language. The symbolic assembler would be able to produced slightly
+language, or you could ask it to compile into the **symbolic assembler
+language**. The symbolic assembler would be able to produce slightly
 better final product, but it would take longer, because after you got
-the symbolic, you'd have to take those cards and run them through
+the symbolic, you’d have to take those cards and run them through
 another program before you could run them. So we had, so either
-floating point or not, either symbolic or not, it was four different
-possibilities. So we wrote it, we wrote the program in such a way that
-there was a floating point set of instructions, and a non-floating
-point set of instructions, each of these we had exactly, let's say,
-731 positions of memory for, so you'd swap out those 731 for another,
-and similarly for the symbolic and non symbolic, you could swap out
+floating-point or not, either symbolic or not, it was four different
+possibilities.
+
+So we wrote it, we wrote the program in such a way that
+there was a floating-point set of instructions, and a non-floating-point
+set of instructions, each of these we had exactly, let’s say,
+731 positions of memory for, so **you’d swap out those 731 for another,
+and similarly for the symbolic and non symbolic**, you could swap out
 two parts of the program; each of those parts of the program had to be
-the exactly the same size, in order to pack it all in. Somebody asks
+the exactly the same size, in order to pack it all in.
+
+Somebody asks
 for a new feature, or we want to extend the language a little more,
 then we think of a way to do it for the floating point, but then we
 have to think of a way to shorten the non floating point part of our
-program, so we kept on revising this program until it was really
-inscrutable. I mean every, all kinds of tricks were used for
-that. When I'd have a constant that was used in one routine, I would
+program, so **we kept on revising this program until it was really
+inscrutable**. I mean every, all kinds of tricks were used for
+that. When I’d have a constant that was used in one routine, I would
 also make sure that it could be used in some other routine, for some
 other, completely different purpose. Almost everything in the program
-had many uses, and therefore a few months would go by, and we'd forget
+had many uses, and therefore a few months would go by, and we’d forget
 about these tricks, and we would try to change something else, and
-something would go wrong. So it was a very shaky, bad way to do
-software, but it was the way that, the only way we knew how to do at
-the time, and it was, and people couldn't believe that we were able to
-do with such a small computer, to do as many things as it did.)
+something would go wrong.
+
+So it was **a very shaky, bad way to do
+software**, but it was the way that, the only way we knew how to do at
+the time, and it was, and **people couldn’t believe that we were able to
+do with such a small computer**, to do as many things as it did.
 
 [26 - Wanting to be a teacher and why I chose to go to Caltech](http://webofstories.com/play/17085)
 ---------------------------------------------------------------------------------------------------
 
-I never thought of that as a career. That was my summer job at Case,
+**I never thought of that as a career. That was my summer job** at Case,
 but there was no such thing as a career in computers, and computers
 were just this weird thing on the periphery of society. What did I
-really want to do, as my own career? When I was in Grade School, I
-wanted to be a Grade School teacher. I wanted to, you know, if I was
-in Sixth Grade I was thinking of myself as a future Sixth Grade
-teacher, Seventh Grade and so on. And in high school, I wanted to be a
-high school teacher. I always viewed myself as having, as being a
-teacher later on, and also maybe with a part time job as a musician or
+really want to do, as my own career? When I was in grade school, I
+wanted to be a grade school teacher. I wanted to, you know, if I was
+in sixth grade I was thinking of myself as a future sixth grade
+teacher, seventh grade and so on. And in high school, I wanted to be a
+high school teacher. **I always viewed myself as having, as being a
+teacher later on**, and also maybe with a part time job as a musician or
 something. So I got to college, I wanted to be a college teacher, I
-got to graduate school, I thought, okay, graduate school teacher, but
-I never thought of Computer Science as a, as part of my career, it was
-something that I could do in order to make money, to prepare myself
-for a career that I'd heard about before. It was like, so I was going
-to be a Physics teacher, then I was going to be Math teacher, when I
-switched to Math. And I went to, okay, so, when I finally graduated
+got to graduate school, I thought, okay, graduate school teacher.
+
+But
+**I never thought of computer science as a, as part of my career, it was
+something that I could do in order to make money**, to prepare myself
+for a career that I’d heard about before. It was like, so I was going
+to be a physics teacher, then I was going to be math teacher, when I
+switched to math. And I went to, okay, so, when I finally graduated
 from Case, I had been recommended that I should go to the West Coast,
 well, no, I chose the West Coast for graduate school, because my
 family, we would go; finally we had enough money to take vacations in
-the summer time, and we could drive round, and so we had driven to the
+the summer time, and we could drive round, and so **we had driven to the
 different parts of the United States, and I fell in love with
-California, and so when I applied to graduate school, I applied to
+California**, and so when I applied to graduate school, I applied to
 Caltech, Stanford and Berkeley. Basically, where should I go to, to do
-my Mathematics? And I was accepted to all three, and I had
-scholarships to all three, and, but the, I was specially recommended
+my mathematics?
+
+And **I was accepted to all three, and I had
+scholarships to all three**, and, but the, I was specially recommended
 to Caltech, because of Professor Marshall Hall, who later became my
 advisor, since at Case we had a visitor, Professor Bose, a great
 Indian mathematician, who had just, who had been, introduced me to
-research, and he spoke very highly of Marshall Hall. Bose, at the
-time, was doing his famous work about disproving Euler's Conjecture
-about Latin Squares; it's an interesting subject, a several hundred
-year old problem, where people hadn't been able to construct patterns
+research, and he spoke very highly of Marshall Hall.
+
+**Bose**, at the
+time, was doing his famous work about **disproving Euler’s conjecture
+about Latin Squares**; it’s an interesting subject, a several hundred
+year old problem, where people hadn’t been able to construct patterns
 that are, that are useful in many parts of statistics and
 combinatorics and Euler and this greatest mathematician of all time,
-probably, or at least in everybody's Top Ten, in the 1700s, had
+probably, or at least in everybody’s Top Ten, in the 1700s, had
 conjectured that there was no solution to this problem, and three or
 four people had even proved that he was right, but there were mistakes
 in the proof, and so finally, my professor, my Professor Bose and two
 of his co-workers found that Euler was wrong, and that there were
 really patterns of that kind. And so Bose got me interested in
 research, because I was at the Computer Center, and he had a computing
-problem that he couldn't solve, and he put me to work on Latin Squares
-of Order 12, and I came back the next morning with five mutually
-orthogonal Latin Squares of Order 12, and this excited him very much,
-and that was my third technical paper, I guess, was this paper with
-Bose. But he recommended Marshall Hall, who was one of the leading
-mathematicians in the Combinatorial Mathematics area, and so I liked
-the idea of going to Caltech.)
+problem that he couldn’t solve, and he put me to work on Latin Squares
+of order 12, and I came back the next morning with five mutually
+orthogonal Latin Squares of order 12, and **this excited him very much,
+and that was my third technical paper**, I guess, was this paper with
+Bose.
+
+But he recommended Marshall Hall, who was one of the leading
+mathematicians in the combinatorial mathematics area, and so I liked
+the idea of going to Caltech.
 
 [27 - Writing a compiler for the Burroughs Corporation](http://webofstories.com/play/17086)
 -------------------------------------------------------------------------------------------
