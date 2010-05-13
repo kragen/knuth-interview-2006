@@ -1630,63 +1630,73 @@ the idea of going to Caltech.
 
 During the summer, between Case in Cleveland and Caltech in Pasadena,
 I had a summer job, of writing compilers, this algebraic, this
-software that converts algebraic language into machine language. I had
-a job writing a compiler for Burroughs Corporation. Burroughs was
+software that converts algebraic language into machine language. **I had
+a job writing a compiler for Burroughs** Corporation. Burroughs was
 headquartered in Pasadena, I mean the Burroughs Division that was
 dealing with software was headquartered in Pasadena, and Case had
 recently installed a Burroughs computer that I liked very much, during
-my senior year. Some people from Thompson Ramo Wooldridge approached
-me and said, Don, we understand that you can write compilers. We're
+my senior year.
+
+Some people from Thompson Ramo Wooldridge approached
+me and said, Don, we understand that you can write compilers. We’re
 going to put in a proposal to Burroughs to write a compiler for their
 machine, the Burroughs 205, for a language called ALGOL, which was
 just being invented at that time, the Algorithmic Language an
 International Standard, that was supposed to replace FORTRAN, the most
-popular language at the time. And so Thompson Ramo Wooldridge was,
+popular language at the time. And so **Thompson Ramo Wooldridge was,
 made a proposal to Burroughs for I believe it was $70,000, to create
-an ALGOL compiler for the Burroughs 205. The people who made this
-proposal really, though, were clueless about how to write compilers,
-so they hired me, a Case Senior, to do the job, because they had heard
+an ALGOL compiler** for the Burroughs 205. The people who made this
+proposal really, though, were **clueless about how to write compilers**,
+so they hired me, a Case senior, to do the job, because they had heard
 that I knew how to do it. I had done this RUNCIBLE and a couple of
 versions of other software at Case, so spring of my Senior year, they
-are showing me, they're showing me about this machine that Burroughs
+are showing me, they’re showing me about this machine that Burroughs
 had, and I started playing around with the computer, and I had
-learned, got interested in the project, but Burroughs turned them
-down; they didn't give them the contract. So after Burroughs said, no,
-they weren't going to do it with Thompson Ramo Wooldridge, well I
-said, well, wait a minute, I've, maybe I'll write to Burroughs on my
-own, and I sent them a letter and said, I'll, you know, for $5,000 I
-can write you an ALGOL compiler. Now $5,000 was a huge amount of money
-in 1959, 1960. I mean a college professor was making $8,000 a year or
+learned, got interested in the project, but **Burroughs turned them
+down**; they didn’t give them the contract.
+
+So after Burroughs said, no,
+they weren’t going to do it with Thompson Ramo Wooldridge, well I
+said, well, wait a minute, I’ve, maybe I’ll write to Burroughs on my
+own, and **I sent them a letter and said, I’ll, you know, for $5,000 I
+can write you an ALGOL compiler**. Now $5,000 was a huge amount of money
+in 1959, 1960. I mean **a college professor was making $8,000 a year** or
 something like this. So I thought $5,000 was an incredibly rich thing,
 you know, to do. I said to Burroughs, no, I, except that, I can do it
-in the summer, except I won't have time to implement all of this
-ALGOL, I'll be able to do everything except procedures. I'll be unable
+in the summer, except I won’t have time to implement all of this
+ALGOL, I’ll be able to do everything except procedures. I’ll be unable
 to, you know, which is actually the hardest thing to do in a compiler,
-which is of subroutines, the ability to extend the language. Well,
-they wrote back, you, we can't have ALGOL without procedures, you've
-got to put procedures in too. And so I thought about it and said,
-figured out, oh yeah, okay, I see how I can do it, but you'll have to
+which is of subroutines, the ability to extend the language.
+
+Well,
+they wrote back, you, we can’t have ALGOL without procedures, **you’ve
+got to put procedures in too**. And so I thought about it and said,
+figured out, oh yeah, okay, I see how I can do it, but you’ll have to
 pay me $5,500, instead of $5,000. So they said, okay. So I spent the
-summer of 1960, that's after my, after graduating from Case, I spent
-the summer writing this compiler for ALGOL, for the Burroughs 205, and
-I wrote it, but really I had it only in pencil and paper, I didn't
+summer of 1960, that’s after my, after graduating from Case, **I spent
+the summer writing this compiler** for ALGOL, for the Burroughs 205, and
+I wrote it, but really **I had it only in pencil and paper**, I didn’t
 have it ready to go, and then I would take it with me on, as I went
 out to Pasadena, and work on it there when I was at the Burroughs
-plant in Pasadena. So on my way out West; I had a little Volkswagen,
-that I had gotten from my parents, and I drove 100 miles a day, and
-got a motel, and sat down, and wrote code, wrote software, and took 30
+plant in Pasadena.
+
+So on my way out West; I had a little Volkswagen,
+that I had gotten from my parents, and **I drove 100 miles a day, and
+got a motel, and sat down, and wrote code**, wrote software, and took 30
 days to drive from Milwaukee to Pasadena, every day writing a little
 bit of this software. Then I got to Pasadena, and had all my code, had
 all my notes, and started putting it on to punched cards, and you
-know, debugging it and by Christmas time I had their compiler for
-them, and it was a machine that didn't sell very well, so there
-weren't too many places in the world, but I heard for the next ten
-years that people in Brazil were still using it a lot, and so it was
-a, it was an interesting experience for me, but the most important,
+know, debugging it and **by Christmas time I had their compiler for
+them**, and it was a machine that didn’t sell very well, so there
+weren’t too many places in the world, but I heard for the next ten
+years that people in Brazil were still using it a lot.
+
+And so it was
+a, it was an interesting experience for me, but **the most important,
 from my point of view, was I had $5,500, which was enough to get
-married. And so in the summer of '61 Jill and I got married, and it
+married**. And so in the summer of ‘61 Jill and I got married, and it
 paid for our honeymoon trip in Europe, which was our first time seeing
-the world.)
+the world.
 
 [28 - Working for the Burroughs Corporation](http://webofstories.com/play/17087)
 --------------------------------------------------------------------------------
