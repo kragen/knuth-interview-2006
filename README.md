@@ -1212,117 +1212,141 @@ by this exercise of trying to find prime factors of a number.
 [21 - Learning how to program on the IBM 650 (Part 2)](http://webofstories.com/play/17080)
 ------------------------------------------------------------------------------------------
 
-So I learned certain things like, what's; this was a decimal computer,
+So I learned certain things like, what’s; this was **a decimal computer**,
 it worked not in the binary system, but in the decimal system, and you
 had ten-digit numbers, so I could learn, so it was also very slow, the
-division instruction in the machine took four milliseconds, that's a,
-I think it's something like four milliseconds, in other words now
-machines go a million times faster. But you know, incredibly slow by
-today's standards, but, so you couldn't do that many divisions per
-second, and my method of finding prime factors was just to try
+division instruction in the machine took four milliseconds, that’s a,
+I think it’s something like four nanoseconds, in other words **now
+machines go a million times faster**. But you know, incredibly slow by
+today’s standards, but, so you couldn’t do that many divisions per
+second.
+
+And my method of finding prime factors was just to try
 dividing you know, you can divide by two? No. Divide by three?
 No. Divide by four? No. Until you find a factor. So now you take the
-largest ten-digit number that doesn't have any factors. This program
-would take a long, long, long time. So one of the things I had to do
-was make it go a little faster. I wouldn't divide by two and three and
-four and five, I could skip over the even numbers if it's not
-divisible by two, it's not divisible by four. And, you know, I had to
+largest ten-digit number that doesn’t have any factors. **This program
+would take a long, long, long time**. So one of the things I had to do
+was make it go a little faster. I wouldn’t divide by two and three and
+four and five, I could skip over the even numbers if it’s not
+divisible by two, it’s not divisible by four.
+
+And, you know, I had to
 do things like that in order to, then I, as soon as I got up to a five
-digit divisor, then I could stop; I didn't know then back then, you
-know, I didn't realize that at first, but I didn't have to divide by
-every possible thing, because if it has a divisor at all, the smallest
-divisor has to be less than the square root of the number you're
+digit divisor, then I could stop; I didn’t know then back then, you
+know, I didn’t realize that at first, but I didn’t have to divide by
+every possible thing, because **if it has a divisor at all, the smallest
+divisor has to be less than the square root** of the number you’re
 looking at, less than or equal. I think I first thought less than, and
 then I, then I found I had to change my program to less than or
-equal. One of the most subtle bugs was, and it took me, and it took me
+equal.
+
+One of the most subtle bugs was, and it took me, and it took me
 a hard time to do it, was the following. What if the number had lots
 and lots of prime factors? Well it turned out there are ten-digit
-numbers that have, I could only punch eight prime factors on a card,
-on the answer card, and so I would have to prepare my program, because
+numbers that have, **I could only punch eight prime factors on a card,
+on the answer card**, and so I would have to prepare my program, because
 I mean you can have more than 30 prime factors, so I could, so I had
-to change my program so that it wouldn't only punch one card as the
-answer, but it would also punch up to four cards. So anyway this was,
-I'm just trying to explain why this little program of finding prime
+to change my program so that it wouldn’t only punch one card as the
+answer, but it would also punch up to four cards.
+
+So anyway this was,
+I’m just trying to explain why this little program of finding prime
 factors was so instructive for me at the time, and I did it near the
-end of my Freshman year, and I was allowed to spend all night sitting
-at the machine, turning the dials, turning the buttons, and Case had
+end of my freshman year, and I was allowed **to spend all night sitting
+at the machine, turning the dials, turning the buttons**, and Case had
 an extremely intelligent attitude toward undergraduates. They allowed
 us to go and touch the computers, do everything ourselves, work
 overnight, sleep in the, you know, in the room, and write programs
-that would be used by other people on campus. And Stanford had a
-completely different idea. If you used the computer at Stanford, I
-learned later, they had a professional staff that had been sent to
+that would be used by other people on campus.
+
+And Stanford had a
+completely different idea. If you used the computer **at Stanford, I
+learned later, they had a professional staff** that had been sent to
 them by IBM, of scientists who would do the; you would submit the job
-to them, they would put it through the machine, and you know, you'd
-get your answers the next day. Case, all hands on, we are allowed to
-all that stuff ourselves, and even, they didn't worry that we were
-going to break the machine, you know, we'd learned how to open up the
+to them, they would put it through the machine, and you know, you’d
+get your answers the next day.
+
+Case, all hands on, we are allowed to
+all that stuff ourselves, and even, **they didn’t worry that we were
+going to break the machine**, you know, we’d learned how to open up the
 panels, and you know, when paper jams and cards jam, and things like
 this, or, we could wire the boards and all that stuff. So what if
-we're Freshmen? That's okay. And I think Case and Dartmouth were the
+we’re freshmen? That’s okay. And I think Case and Dartmouth were the
 only two universities that were so liberal for allowing undergraduates
 to play with the machines in those days.)
 
 [22 - Writing a tic-tac-toe program](http://webofstories.com/play/17081)
 ------------------------------------------------------------------------
 
-So I got my summer job at, in the Computing Center, so I didn't come
+So I got my summer job at, in the computing center, so I didn’t come
 home to Milwaukee, except for a short trip that summer. And this was
-before I had met these girls I was telling you about, in my Sophomore
-year. So I had only the computer to be with, and my second program was
+**before I had met these girls** I was telling you about, in my sophomore
+year. So **I had only the computer to be with**, and my second program was
 to change the numbers from decimal to other bases, but my, but that
-was a fairly quick. My third program is the one that I spent the most
-time on at that time, was to play tic-tac-toe. Now I found out later
+was a fairly quick.
+
+**My third program** is the one that I spent the most
+time on at that time, was **to play tic-tac-toe**. Now I found out later
 that a lot of computer scientists have worked on tic-tac-toe, Charles
 Babbage, the famous guy who, you know, was planning a machine that
 could do tic-tac-toe in England in the 1800s, Danny Hillis built a
 tic-tac-toe playing machine out of Tinker toys, that went into the
-computer museum at Boston. But anyway, I and, I decided I'd write a
-computer program to play this children's game, and it was a bit of a
-challenge. I wasn't using Tinker toys, but this IBM 650 had another
+computer museum at Boston. But anyway, I and, I decided I’d write a
+computer program to play this children’s game, and it was a bit of a
+challenge.
+
+I wasn’t using Tinker toys, but this IBM 650 had another
 interesting feature; not only was it decimal, with ten-digit numbers,
 but it only had 2,000 altogether. So the total memory of that computer
 was, oh well, let me see, 2,000 times, well what have we got? Five
-bytes or so? So that's ten K bytes of memory. Now, right now, if you
-don't have ten gigabytes, oh well, ten megabytes, you know, you're
-dead. You can't load Microsoft Windows unless you hundreds of
-megabytes, but here we had 10,000 bytes, total. And so I, but I was
+bytes or so? So that’s **ten K bytes of memory**. Now, right now, if you
+don’t have ten gigabytes, oh well, ten megabytes, you know, you’re
+dead. You can’t load Microsoft Windows unless you hundreds of
+megabytes, but here we had 10,000 bytes, total.
+
+And so I, but I was
 wanting it to play tic-tac-toe against me. I wrote three versions of
 tic-tac-toe. One was an expert version, which you know, I pre-planned
-a strategy that I knew was going to be right. What's the second
-version? I can't remember. But the third version was the most
-interesting. This was the learning version, where the machine starts
-out knowing nothing. And it learns by experience. So it, so it
+a strategy that I knew was going to be right. What’s the second
+version? I can’t remember. But the third version was the most
+interesting. This was **the learning version, where the machine starts
+out knowing nothing**. And it learns by experience. So it, so it
 remembers all the possible positions on the tic-tac-toe board, just
 barely enough to fit inside of ten K bytes, and every time it plays a
 game, if it lost a game, it said, oh, these moves that I made were
 bad. The moves that the other guy made were good. If it won the game,
-it said, oh, my moves were good; the other guy's were not. So it would
-adjust; it kept; it had one digit for every position, so it would
-start out like at four, and if you'd win a game it might go five. If
-you'd lose, it'd go to three. And so then if you had different moves,
-you'd it would try the ones that looked good in its ranking, and that
+it said, oh, my moves were good; the other guy’s were not. So it would
+adjust; it kept; it had **one digit for every position**, so it would
+start out like at four, and if you’d win a game it might go five. If
+you’d lose, it’d go to three. And so then if you had different moves,
+you’d it would try the ones that looked good in its ranking, and that
 took me a month to write the program, and I learned a lot playing
-around with that. And afterwards I, then I tried the learning program
-against the expert program, so I would use the expert program to play
+around with that.
+
+And afterwards I, then **I tried the learning program
+against the expert program**, so I would use the expert program to play
 and train the learning program, so how many times would the expert
 play against, you know, like I think it was like 120 games or
 something, then the learning program learned not to lose against the
-expert. Tic-tac-toe is a kind of boring game, because if you really
-know how to play it, every game comes out as a cat's game; it's a
-tie. Nobody wins. But before that it's interesting. When you make bad
-moves, it gets really exciting. So then I said, okay, now I'm going to
-have two learning. I'm going to have the learning game play against
-the learning game, so both of them start out knowing nothing about the
+expert.
+
+Tic-tac-toe is a kind of boring game, because if you really
+know how to play it, every game comes out as a cat’s game; it’s a
+tie. Nobody wins. But before that it’s interesting. When you make bad
+moves, it gets really exciting. So then I said, okay, now I’m going to
+have two learning. I’m going to **have the learning game play against
+the learning game**, so both of them start out knowing nothing about the
 game, and each of them, so originally all their moves are completely
-blindfolded, and you know, they're blundering along, but then at the
+blindfolded, and you know, they’re blundering along, but then at the
 end somebody happens to win the game, or somebody happens to lose the
-game, so then their strategy changes a little bit. Well now it turned
+game, so then their strategy changes a little bit.
+
+Well now it turned
 out that after about 350 games, they would learn how to play
 conservatively, to draw against each other. It was a very dull game
 that they finally wound up doing; they played safe moves instead of
 brilliant moves, but it was anyway, a good learning experience for me,
-writing this tic-tac-toe program.)
+writing this tic-tac-toe program.
 
 [23 - Learning about Symbolic Optimum Assembly programs and the Internal Translator (Part 1)](http://webofstories.com/play/17082)
 ---------------------------------------------------------------------------------------------------------------------------------
