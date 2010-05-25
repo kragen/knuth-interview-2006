@@ -1600,7 +1600,7 @@ scholarships to all three**, and, but the, I was specially recommended
 to Caltech, because of Professor Marshall Hall, who later became my
 advisor, since at Case we had a visitor, Professor Bose, a great
 Indian mathematician, who had just, who had been, introduced me to
-research, and he spoke very highly of Marshall Hall.
+research, and he **spoke very highly of Marshall Hall**.
 
 **Bose**, at the
 time, was doing his famous work about **disproving Euler’s conjecture
@@ -1893,7 +1893,7 @@ our 12 had done it in three years**, and I think it was partly that,
 just that we had set ourselves up that way, to do it.
 
 My thesis, I was
-working with Marshall Hall, who I hadn’t met before coming to Caltech,
+working with **Marshall Hall**, who I hadn’t met before coming to Caltech,
 but I got to enjoy. **His lectures were very disorganized, but he really
 knew the subject**, so he would be teaching us about permutations, what
 actually I found was that I would take notes of what he said during
