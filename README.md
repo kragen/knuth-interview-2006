@@ -1752,153 +1752,179 @@ machine. Another group, the Engineers, had to build the machine. It
 was completely different than any machine done before. And my role as
 a consultant was to **talk to the engineers who were building it and
 make sure they understood what the designers on the other floor
-knew**. And so I got, really, to talk to almost everybody in the
+knew**.
+
+And so I got, really, to talk to almost everybody in the
 company, and my role was more of a communications role than anything
 else. These people, if they went through channels, they would have to
-go several levels up the hierarchy, and down again, and they couldn't
-talk to each other, but they could talk to me, and then I could talk
+go several levels up the hierarchy, and down again, and **they couldn’t
+talk to each other, but they could talk to me**, and then I could talk
 to the other people in the other group, and so I, and so I could
 provide a valuable service to Burroughs, and they, they would pay me,
 I think, you know, I think I was getting $5 an hour, or $7 an hour;
 considered high at the time, but it had no medical benefits or
 anything associated with it, so from their point of view they were
-getting a good deal too. And one of my roles was to check out the
-designs of the Engineers, and see if there were any mistakes in them
+getting a good deal too.
+
+And one of my roles was to check out the
+designs of the engineers, and see if there were any mistakes in them
 before they would build the machine. They would first take their
 designs and put them through a computer program to see if they would
-simulate, and apparently work correctly, but then, after they thought
+simulate, and apparently work correctly, but then, **after they thought
 it was working correctly, then they would show it to me, and I still
-found several hundred errors in the design that I was able to catch,
-well you know, very weird cases that could come up, but hadn't arisen
+found several hundred errors in the design** that I was able to catch,
+well you know, very weird cases that could come up, but hadn’t arisen
 during the simulations, so that the expensive corrections to the
-hardware weren't necessary. You know, really my role in that time,
-well, communication and trying to find errors, you know, if I could
-look at somebody else's program, or design, and couldn't find any
-mistakes in it, it was a rare event, and I would feel bad. I mean
+hardware weren’t necessary.
+
+You know, really my role in that time,
+well, communication and trying to find errors, you know, **if I could
+look at somebody else’s program, or design, and couldn’t find any
+mistakes in it, it was a rare event**, and I would feel bad. I mean
 finding errors was my, was a big treat for me in those days, so far as
-my work in computers was concerned.)
+my work in computers was concerned.
 
 [29 - Burroughs Corporation](http://webofstories.com/play/17088)
 ----------------------------------------------------------------
 
 Burroughs was a company established in the 19th century, and was quite
-pre-eminent in the banking industry, almost everybody used equipment
-from Burroughs to do its accounting, and in the early days of
+pre-eminent in the banking industry, **almost everybody used equipment
+from Burroughs to do its accounting**, and in the early days of
 computing, Burroughs acquired the Electric Data Corporation, in
 Pasadena, and they were one of the many companies putting out
 computers. And, and as I say, not only that, they had very innovative
 computers, and I liked the spirit of all the employees working there
-as well. The- later on, they were acquired by Sperry Rand, this was in
-the '70s, I think, and became Unisys, combined with Sperry Rand. So
+as well.
+
+The — later on, they were acquired by Sperry Rand, this was in
+the ’70s, I think, and **became Unisys**, combined with Sperry Rand. So
 half of Unisys was from the Burroughs Corporation, and half of it was
 the Sperry, which, the Rand, the Remington Rand, the people who had
 built the UNIVAC computer. That happened after I was no longer in
 Pasadena. And they continued to have banks as their primary customer
 base, but then, in more recent years, the, you know, other companies
 survived, and there were many, many changes in the computer industry,
-to that time. So Burroughs was, you know, Edsger Dijkstra was also a
-consultant to Burroughs during the 60s, and he would come out to
+to that time.
+
+So Burroughs was, you know, **Edsger Dijkstra was also a
+consultant to Burroughs during the 60s**, and he would come out to
 Pasadena, visit periodically, and it was a great company to work for
-in those days, I think.)
+in those days, I think.
 
 [30 - My interest in context-free languages](http://webofstories.com/play/17089)
 --------------------------------------------------------------------------------
 
-I had no idea that that work connected with Mathematics in any way
-whatsoever. I wear one cap in the computer- when I'm consulting for
-Burroughs, and I wear another cap when I'm at Caltech as a student
-learning Mathematics. Mathematics was something where we proved things
+I had **no idea that that work connected with mathematics** in any way
+whatsoever. I wear one cap in the computer — when I’m consulting for
+Burroughs, and I wear another cap when I’m at Caltech as a student
+learning mathematics. Mathematics was something where we proved things
 correct; we knew what we were, you know, we knew what the rules of the
 game were. In the computer field, we just fiddled with something until
-it seemed to work and we couldn't find any errors any more. But we
-never had this idea that it could be mathematically correct. The only
+it seemed to work and we couldn’t find any errors any more. But we
+never had this idea that it could be mathematically correct.
+
+The only
 small exception to that was the area of syntax of programming
 languages. This means the grammar of languages. I mentioned that when
 I was in Seventh Grade my friends and I loved grammar, and we learned
 about English grammar. Well, now I was seeing the same kind of things,
 they were not nouns and verbs, but similar things in the algebraic
 languages like ALGOL, that I was supposed to write software for, and a
-theory had been developing called the Theory of Context-free
-Languages, that was appealing to me, because here was something that I
+theory had been developing called the **theory of context-free
+languages**, that was appealing to me, because here was something that I
 could be, I could use my mathematical cap and my and my computer cap
 at sort of the same time. You know, my computer science intuition, and
 my love of grammar and language was; would suggested interesting
 problems, the mathematics that I knew suggested how to solve those
 problems. So I, that was one thing where the two worlds, the computing
-and the math world, were coming together for me. And I have to say
-that on my honeymoon, when Jill and I sailed to Europe, I brought
+and the math world, were coming together for me.
+
+And I have to say
+that **on my honeymoon**, when Jill and I sailed to Europe, I brought
 along with me a book by Noam Chomsky, which was one of the pioneering
 things about context-free languages, and I read that in odd moments,
 you know, when Jill was seasick or something, and I would try to solve
 the problem about context-free languages. The problem I tried to solve
-was, is there a way to test whether a context-free grammar is
-ambiguous or not? Ambiguous means that you could write a sentence that
+was, is there a way to test **whether a context-free grammar is
+ambiguous or not**? Ambiguous means that you could write a sentence that
 had two different ways to be understood. And I thought I might have a
-way to resolve this, and I reduced it to several other problems, but I
-couldn't solve the problem, in general, and little beknown, you know,
+way to resolve this, and I reduced it to several other problems
+
+But I
+couldn’t solve the problem, in general, and little beknown, you know,
 I learned several years later that in fact three Israeli
 mathematicians had already proved that the problem had no solution;
 that there was no way to solve this ambiguity problem, in finite
-time. But I didn't know that during my honeymoon, and I just wanted to
-mention that, although I do love Jill, there were also other things
+time. But I didn’t know that during my honeymoon, and I just wanted to
+mention that, **although I do love Jill, there were also other things
 that I love too, and one of them was the mystery of context-free
-languages. Another time I guess I should, I have to mention is the
+languages**. Another time I guess I should, I have to mention is the
 time when I forgot about one of our dates, and, when I was playing
-with the computer at Case Tech, but we won't talk about that. But she
-doesn't let me live that one down.)
+with the computer at Case Tech, but we won’t talk about that. But she
+doesn’t let me live that one down.
 
 [31 - Getting my PhD and the problem of symmetric block designs with lambda equals two](http://webofstories.com/play/17090)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Here I am then, earning money as a computer person, and enjoying, and
-then studying Mathematics so that I can be a Math teacher as a
+then studying mathematics so that I can be a math teacher as a
 career. And the idea that there could be any connection with this, or
-there could be, ever be an academic field of Computer Science or
-something, never entered my mind whatsoever as a possibility. Very few
-people in the world had thought of it at that time either. Now, at
-Caltech, I- Somebody had told me early on in life that you go to grade
+there could be, ever be **an academic field of computer science or
+something, never entered my mind** whatsoever as a possibility. Very few
+people in the world had thought of it at that time either.
+
+Now, at
+Caltech, I — somebody had told me early on in life that you go to grade
 school for eight years, and you go to high school for four years, then
 you go to college for four years, and then you might want to go to
 graduate school for another three years, and get your, and get a
-PhD. I don't know who had told me that early on, but somebody had said
-that it takes three years to get a PhD. And I had believed that and so
-when I got to Caltech in 1960, I'm thinking, oh, okay, in 1963 I'll
-graduate. And I've just sort of set my sights that way. Now if
-somebody had told me it was going to take five years, I'm sure I would
+PhD. I don’t know who had told me that early on, but somebody had said
+that it takes **three years to get a Ph.D.**. And I had believed that and so
+when I got to Caltech in 1960, I’m thinking, oh, okay, in 1963 I’ll
+graduate. And I’ve just sort of set my sights that way. Now if
+somebody had told me it was going to take five years, I’m sure I would
 have graduated in 1965, but I had always been thinking I would
-graduate in 63, so I, so I just sort of planned ahead. It was, it
-didn't occur to me, until the day of graduation, that none of my other
-colleagues were there. You know, Al Hales was there, but just two of
-our 12 had done it in three years, and I think it was partly that,
-just that we had set ourselves up that way, to do it. My thesis, I was
-working with Marshall Hall, who I hadn't met before coming to Caltech,
-but I got to enjoy. His lectures were very disorganized, but he really
-knew the subject, so he would be teaching us about permutations, what
+graduate in 63, so I, so **I just sort of planned ahead**.
+
+It was, it
+didn’t occur to me, until the day of graduation, that none of my other
+colleagues were there. You know, Al Hales was there, but **just two of
+our 12 had done it in three years**, and I think it was partly that,
+just that we had set ourselves up that way, to do it.
+
+My thesis, I was
+working with Marshall Hall, who I hadn’t met before coming to Caltech,
+but I got to enjoy. **His lectures were very disorganized, but he really
+knew the subject**, so he would be teaching us about permutations, what
 actually I found was that I would take notes of what he said during
 class, and the problem was to figure out a permutation of what he had
 said that made sense. What, how to re-order; you know, I mean every
 important idea had been presented some time during that hour, but they
-didn't come to him in the right order, just like now, I'm not thinking
-of everything in the right order, well he, you know, so his classes
+didn’t come to him in the right order, just **like now, I’m not thinking
+of everything in the right order**, well he, you know, so his classes
 were like that, but I learned a heck of a lot this way, by trying to
 unscramble the notes of what he said in class, so I learned about the
-things that he was good at, and I decided that you know, one of the
-unsolved problems that he posed to us, technical term is symmetric
-block designs with lambda equals two. It's a technical term that
-really means; it's something like Geometry, except instead of having
+things that he was good at.
+
+And I decided that you know, one of the
+unsolved problems that he posed to us, technical term is **symmetric
+block designs with λ=2**. It’s a technical term that
+really means; it’s something like geometry, except instead of having
 two, instead of having one line through every two points, you have two
 lines through every two points. And you know, instead of saying that
 every two lines intersect in one point, every two lines intersect in
-two points. So this is a system called the symmetric block designs
-with lambda equals two, and at the time I started working on this
-unsolved problem I was going to try to find infinitely many such
+two points.
+
+So this is a system called the symmetric block designs
+with λ=2, and at the time I started working on this
+unsolved problem **I was going to try to find infinitely many** such
 designs, such, symmetric designs, and six were known altogether. And
 so I thought, okay, but I had a new way to approach the subject, maybe
-I'd be able to find infinitely many. Well, it, it's a good thing that
-I didn't take that as my final project though, because I believe up to
-this day only one more has ever been found, so nobody knows that there
+I’d be able to find infinitely many. Well, it, it’s a good thing that
+I didn’t take that as my final project though, because I believe up to
+this day **only one more has ever been found**, so nobody knows that there
 is only finitely many, but it seems to be extremely hard to construct
-these designs.)
+these designs.
 
 [32 - Finding a solution to an open problem about projective planes](http://webofstories.com/play/17091)
 --------------------------------------------------------------------------------------------------------
