@@ -1701,50 +1701,58 @@ the world.
 [28 - Working for the Burroughs Corporation](http://webofstories.com/play/17087)
 --------------------------------------------------------------------------------
 
-I got to Caltech as a student, a grad student in Mathematics. Again I
-was scared stiff that I wouldn't be able to succeed, because the
-students at Caltech were really, really selective they, at Caltech,
+I got to Caltech as a student, a **grad student in mathematics**. Again I
+was scared stiff that I wouldn’t be able to succeed, because the
+students at Caltech were really, really selective they, **at Caltech,
 the undergrads, one out of three of them was first in their high
-school class, and the other two out of three were very near the
+school** class, and the other two out of three were very near the
 top. And so it was awesome, the people there, but they only admitted
 200 students a year in Caltech as undergrads. Graduate students, we
 had 12 of us in the math program, and they were excellent as well. It
-wasn't like at Case where anybody could get into the Graduate School
-at the time. So I, so I knew I had my work cut out for me, and I,
+wasn’t like at Case where anybody could get into the Graduate School
+at the time.
+
+So I, so I knew I had my work cut out for me, and I,
 again I went back into a mode where I did more than I needed to for my
 classes, but I also liked the people at Burroughs, so I took, and so I
-took a consulting job at Burroughs, working with their software group,
+**took a consulting job at Burroughs**, working with their software group,
 which I had great admiration for. Their software group had, for
 another computer, the Burroughs 220, had written one of the best
 pieces of software ever, an ALGOL compiler for the 220, and I got to
-know the people who did that, and learned a lot from them. So I
-enjoyed joining their group, but I wasn't, but according to the rules,
-I couldn't have my, I couldn't have a Fellowship from the National
-Science Foundation or from the Woodrow Wilson Foundation; I couldn't
+know the people who did that, and learned a lot from them.
+
+So I
+enjoyed joining their group, but I wasn’t, but according to the rules,
+I couldn’t have my, I couldn’t have a fellowship from the National
+Science Foundation or from the Woodrow Wilson Foundation; I couldn’t
 have those, that financial support and not be a full time
-student. Having, you know, it was a no-no to also be a consultant,
-also be working, working outside Caltech. Wow, your education couldn't
-possibly be any good that way. So I renounced those Fellowships, and I
+student. Having, you know, it was **a no-no to also be a consultant,
+also be working, working outside Caltech**. Wow, your education couldn’t
+possibly be any good that way. So **I renounced those fellowships**, and I
 did become a consultant, and I would spend time over at Burroughs
 several days a week, and for the next six or seven, seven or eight
-years, all the while I was down there in Pasadena. The people at
+years, all the while I was down there in Pasadena.
+
+The people at
 Burroughs were splendid to work with. I was in a group called Product
 Planning, which designed, had designed, or was, early on was in the
-process of designing a completely new kind of computer, one that would
+process of **designing a completely new kind of computer**, one that would
 do in hardware what, what we had been doing in software before. That
-kind of computer is, is not in, it's been realized later that it
-doesn't really provide a real good cost benefit trade off, it's better
+kind of computer is, is not in, it’s been realized later that it
+doesn’t really provide a real good cost benefit trade off, it’s better
 to build cheap hardware and good, and then make software than to build
 expensive hardware, but at that time it was you know, it was not at
 all clear what the future would say about that issue. And so we had
-the most complicated machine ever built, the Burroughs 5,000, then the
-5,500, 6,500, that came out later. And the Product Planning group
+**the most complicated machine ever built, the Burroughs 5000**, then the
+5500, 6500, that came out later.
+
+And the Product Planning group
 where I was consulting was the group in charge of specifying the
 machine. Another group, the Engineers, had to build the machine. It
 was completely different than any machine done before. And my role as
-a consultant was to talk to the engineers who were building it and
+a consultant was to **talk to the engineers who were building it and
 make sure they understood what the designers on the other floor
-knew. And so I got, really, to talk to almost everybody in the
+knew**. And so I got, really, to talk to almost everybody in the
 company, and my role was more of a communications role than anything
 else. These people, if they went through channels, they would have to
 go several levels up the hierarchy, and down again, and they couldn't
