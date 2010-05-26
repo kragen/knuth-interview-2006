@@ -1930,151 +1930,183 @@ these designs.
 --------------------------------------------------------------------------------------------------------
 
 Another open problem had been mentioned in one of my classes, having
-to do with projective planes, a finite kind of Geometry, and the
-projective planes; one of the things Marshall Hall was good at was
-studying projective planes, and he had developed some of the major
-theories of it during the Second World War. These have lots of
+to do with projective planes, a finite kind of geometry, and the
+projective planes; one of the things **Marshall Hall** was good at was
+studying **projective planes, and he had developed some of the major
+theories of it during the Second World War**. These have lots of
 applications in code-breaking as well, and other, and kinds of code
-making from, you know, transmitting reliable codes. And I took his
+making from, you know, transmitting reliable codes.
+
+And I took his
 class on projective planes, and one of the things he mentioned is that
-no, that only one projective plane of order 32 is known, and only one
+no, that **only one projective plane of order 32 is known**, and only one
 is known of order 64, and so, for whenever you had a power of two; two
-times two times two times two times two, and you'd find, one of the
+times two times two times two times two, and you’d find, one of the
 projective plane of that size, basically, that, it was a question
 whether it was only; that projective plane was unique, or were there
-other kind of Geometries with this size? And I, the first open case
+other kind of geometries with this size? And I, the first open case
 was of size 32. And I took a look at it, and I received in the mail,
-as a result of a computer program that had been written, by RJ Walker,
-I think he was in Princeton, and he had found all of the- He had
-actually found new ones of size 32, by computer, and he, he had a list
+as a result of a computer program that had been written, by R.J. Walker,
+I think he was in Princeton, and he had found all of the — **he had
+actually found new ones of size 32, by computer**, and he, he had a list
 on this, of all of this, all of the projective planes of a certain
-kind, which I later called I think a semi-field. And he had two lists,
+kind, which I later called I think a semi-field.
+
+And he had two lists,
 and both of the lists had 16 solutions on it. And the thing was, so
-this gave him 32 different projective planes of a size 32, 16 of them
-were of one kind and 16 of them were of another kind, and that's all
+this gave him **32 different projective planes of a size 32**, 16 of them
+were of one kind and 16 of them were of another kind, and that’s all
 the computer, his computer found. But one of the 16 in the second list
 was the one that had been known for years and years. So I thought to
 myself, oh, all I have to do is find a pattern, a rule that would take
 every one on the first list, and find its corresponding mate on the
-second list, and then I will have a rule that I can take on and solve
-the next problem, 64, the next problem 128, and so on, because my rule
+second list, and **then I will have a rule that I can take on and solve
+the next problem, 64**, the next problem 128, and so on, because my rule
 that worked in the case of 32 would then be a general rule if I could
-find this pattern. And so I had gotten this list from him, it was in
-my mail at nine o'clock in the morning, and I remember riding up in
+find this pattern.
+
+And so I had gotten this list from him, it was in
+my mail at nine o’clock in the morning, and I remember riding up in
 the elevator with Professor Olga Todd, who was one of my professors,
-and I said, Mrs Todd, I think I'm going to have a theorem in two
-hours. I'm going to find a way to match these 16 with these 16. And
+and I said, Mrs. Todd, I think I’m going to have a theorem in two
+hours. I’m going to find a way to match these 16 with these 16. And
 well, I just had a hunch that it was possible, and sure enough, you
 know, staring at it a little bit, a little bit, I found a connection,
-and by noon I had a theorem that had solved many, many cases of this
-open problem about projective planes. I showed it to Marshall Hall,
-and he said, well Don, this is your thesis. Write this up and get out
-of here. You know, you don't have to wait and do, you know, do this
-other hard problem, just do this for your thesis. So I felt a little
-guilty of solving my PhD thesis in two hours and so I had, you know, I
+and by noon **I had a theorem that had solved many, many cases of this
+open problem about projective planes**.
+
+I showed it to Marshall Hall,
+and **he said, well Don, this is your thesis**. Write this up and get out
+of here. You know, you don’t have to wait and do, you know, do this
+other hard problem, just do this for your thesis. So **I felt a little
+guilty of solving my Ph.D. thesis in two hours** and so I had, you know, I
 spent another few months refining the result and adding on some
-related theory. But basically I could write a thesis of about 70
+related theory.
+
+But basically I could write a thesis of about 70
 pages, and then, and that solved the problem that was considered by
 people in this very small sub group of the world, who were projective
-planologists, the finite projective plane people, that this was one of
-the problems that they had thought might never be solved. So I had, so
-that was nice. And it gave me a thesis. Now, I, in order to graduate,
-I also studied- you know, Caltech had other requirements that I had to
-fill, fulfil too, but one of them, interestingly, had, was that you
-choose some other classic problem of Mathematics, and you see, and you
+planologists, the finite projective plane people, that this was **one of
+the problems that they had thought might never be solved**. So I had, so
+that was nice. And it gave me a thesis.
+
+Now, I, in order to graduate,
+I also studied — you know, Caltech had other requirements that I had to
+fill, fulfill too, but one of them, interestingly, had, was that you
+choose some other classic problem of mathematics, and you see, and you
 prepare for a month, read up on it, everything you can, and see if you
 can say something new about the problem, and the problem that I
-studied was what's called the Thue-Siegel-Roth Theorem, in which
+studied was what’s called **the Thue-Siegel-Roth Theorem**, in which
 Freeman Dyson had made one of the main contributions, and I mention
 that just because I know Freeman Dyson is interviewed in this series
-of Peoples Archive, and he's become a good friend since then, but I
+of People’s Archive, and he’s become a good friend since then, but I
 read his papers on the subject, when I was a grad student preparing
 for; I think he had recently, I think he graduated about ten years
-before I did.)
+before I did.
 
 [33 - Teaching a computer course at Caltech and being asked to write a book about compilers](http://webofstories.com/play/17092)
 --------------------------------------------------------------------------------------------------------------------------------
 
-In my third year at Caltech I was also asked to teach some classes
-about computers. A group of people said, you know, Caltech doesn't
-teach anything about computers, and we know that you're consulting to
-Burroughs, why don't you, why don't you think of giving a course, just
+In my third year at Caltech I was also **asked to teach some classes
+about computers**. A group of people said, you know, Caltech doesn’t
+teach anything about computers, and we know that you’re consulting to
+Burroughs, why don’t you, why don’t you think of giving a course, just
 to, to offer to Caltech? So I had also, then been giving a once only
 course, even before I graduated at Caltech, and they made the very
-unusual decision to hire me as an Assistant Professor after
-graduation. Usually a university won't hire its own graduates, except
-MIT. But usually, you know, it's considered bad to have inbreeding,
+unusual **decision to hire me as an Assistant Professor after
+graduation**.
+
+Usually **a university won’t hire its own graduates**, except
+MIT. But usually, you know, it’s considered bad to have inbreeding,
 because a department can get bogged down in one philosophy, and you
 usually want to bring in new blood. Well, Caltech, I guess, felt that
-I was sufficiently strange of blood that they; that it was okay to
-hire me too. Now, meanwhile, in the January of 1962, I'm in my second
-year of Caltech, and in my first year of marriage; we got married in
-the summer of '61, so Jill and I had six months of wedded bliss, we
+**I was sufficiently strange** of blood that they, that it was okay to
+hire me too.
+
+Now, meanwhile, in the January of 1962, I’m in **my second
+year of Caltech, and in my first year of marriage**; we got married in
+the summer of ’61, so Jill and I had six months of wedded bliss, we
 started with our honeymoon, and then, and then we had a time before I
-was approached by Addison-Wesley to write a book about Computer
-Science, about computers. And in the January of '62, an editor from
+was **approached by Addison-Wesley to write a book about computer
+science**, about computers. And in the January of ‘62, an editor from
 Addison-Wesley took me out to lunch, and said, Don, we want, we need,
-we would like to invite you to write a book about compilers. You know,
+we would like to invite you to write a book about compilers. 
+
+You know,
 compilers, this is this system, thing that I had done for Burroughs
-the previous year, and I had, I just finished, and you know, you have
+the previous year, and I had, I just finished, and you know, **you have
 been recommended to us as somebody who knows how to write compilers,
-and would you think about writing a book like that? So I'm one and a
+and would you think about writing a book** like that? So I’m one and a
 half years into graduate school at the time, and doing consulting for
-Burroughs, but I, but, boy, I couldn't get the thought out of my
-mind. Wow, I love writing a book? I just, you know, I'd been working
+Burroughs, but I, but, boy, I couldn’t get the thought out of my
+mind. Wow, I love writing a book? I just, you know, I’d been working
 previously on newspapers, magazines, you know, writing a few
 articles. I enjoyed writing all the time, and I, and here was the
 publisher of my favorite textbooks, Addison-Wesley, was asking me to
-write a book for them. And so right away I went home and I jotted out
-the titles of 12 chapters I thought would be good for a book. And
+write a book for them.
+
+And so right away I went home and I **jotted out
+the titles of 12 chapters** I thought would be good for a book. And
 then, well, our marriage was still happy, but it was different,
-because I started concentrating on this book, for the next 40 years. I
+because I started **concentrating on this book, for the next 40 years**. 
+
+I
 thought I could finish the book, you know, rather quickly. I have
-letters that I wrote in 1964 or five. No, '64, I wrote a letter to
-somebody saying- I'm sorry I can't visit Stanford University this year
-because I have to finish my book before my son is born, you know. And
-now he's 40 years old, and I still haven't finished the book, but
-that's just; we'll get to that. But I thought I, I thought I would
+letters that I wrote in 1964 or five. No, ’64, I wrote a letter to
+somebody saying, “I’m sorry I can’t visit Stanford University this year
+because I have to **finish my book before my son is born,” you know. And
+now he’s 40 years old**, and I still haven’t finished the book, but
+that’s just; we’ll get to that. But I thought I, I thought I would
 finish; I had no idea how long it would take me to, you know, to write
-this book. They asked me to write a book about compilers, but I, I
-thought, well, wait a minute, there's a lot of other stuff goes on in
+this book.
+
+They asked me to write a book about compilers, but I, I
+thought, well, wait a minute, **there’s a lot of other stuff goes on in
 computer programming that you also need to know before you finish your
-compiler, so I said, would you mind if I put in chapters about these
+compiler**, so I said, would you mind if I put in chapters about these
 other aspects of computer programming? And they said, no, go right
-ahead. Okay, so this book, we, I, we decided to call it "The Art of
-Computer Programming". They liked that title. My original motivation
+ahead. Okay, so this book, we, I, **we decided to call it “The Art of
+Computer Programming”**. They liked that title.
+
+My original motivation
 for writing it was not only that I liked the idea of writing books,
-but because I could see a big need for such a book. There was nothing
-like it. In fact, although I had written several compilers, and I knew
-a lot about compilers, I hadn't invented any of the ideas in those
-compilers. I had just applied ideas that I had learned from other
+but because **I could see a big need for such a book**. There was nothing
+like it.
+
+In fact, although I had written several compilers, and I knew
+a lot about compilers, **I hadn’t invented any of the ideas in those
+compilers**. I had just applied ideas that I had learned from other
 people. And so everybody else I could think of, who was able to write
 a book about compilers, I also, as far as I could see, they were
 pretty biased and slanted. They would mention their own method, and
-they wouldn't mention anybody else's method. But I was the only person
-I knew who didn't have this axe to grind. I had never invented
+they wouldn’t mention anybody else’s method. But **I was the only person
+I knew who didn’t have this axe to grind**. I had never invented
 anything myself, I was just a writer, I could present everybody else's
 idea, in a way that was consistent, and wouldn't distort the picture
 the way they would, if they wrote it. You know, anyway, this is in the
 back of my mind, when I'm saying, yes, I want to write this book. I
-wrote the book because I didn't have any; because I felt that I was ,
+wrote the book because I didn't have any; because I felt that I was,
 that I was fairly good at writing, and that I would be able to balance
 the accounts of other people who had had more of a stake in it
-would. And of course as soon as I got started writing it, I naturally
+would.
+
+And of course as soon as I got started writing it, I naturally
 would discover a few things too, and I had my, and I developed my own
-biases and distortions. But, and so I didn't succeed in my goal, of
-making the unbiased presentation, but I have to say that quite
-frankly, I did believe originally that that was my main reason for
-writing the book, it was needed, such a book was necessary, and I
+biases and distortions. But, and **so I didn't succeed in my goal, of
+making the unbiased presentation**, but I have to say that quite
+frankly, I did believe originally that **that was my main reason for
+writing the book**, it was needed, such a book was necessary, and I
 couldn't think of anybody else who would be able to present the story
 fairly. Not that I did it in fact fairly myself later, but at least I
-couldn't think of anybody else who would do it. And I began to, so I
+couldn't think of anybody else who would do it.
+
+And I began to, so I
 began writing drafts of the material, starting then in the summer of
-62. I had classes of, during the beginning of 62, but I stared
-drafting material for "The Art of Computer Programming", and the
+’62. I had classes of, during the beginning of ’62, but I started
+drafting material for “The Art of Computer Programming”, and **the
 course that I wound up teaching at Caltech, during my third year of
-graduate school, was based on these notes that I had made, preliminary
-to "The Art of Computer Programming".)
+graduate school, was based on these notes** that I had made, preliminary
+to “The Art of Computer Programming”.
 
 [34 - 1967: a turbulent year (Part 1)](http://webofstories.com/play/17093)
 --------------------------------------------------------------------------
