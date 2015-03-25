@@ -2825,7 +2825,7 @@ the way Stanford did. Harvard, the same story; at Harvard they said
 they wanted me to be a, you know, Professor of Applied Science, and
 help them build up Computer Science, but I knew that if I went there,
 I'd be spending most of my time arguing for Computer Science rather
-then doing Computer Science. And I hated that. I'm not a politician; I
+than doing Computer Science. And I hated that. I'm not a politician; I
 don't like confrontation. I don't like trying to persuade people of
 things, but I like them to come to the conclusions themselves, so that
 although Harvard was tempting, because I knew that it would be great
