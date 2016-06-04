@@ -3338,7 +3338,7 @@ little taller, a little narrower, and it would adapt everything
 correctly. Now this was a weird concept to type designers. Type
 designers always, you know, approached it with a completely visual
 approach and no mathematics, probably thank goodness, because they
-came up with beautiful design, but at any rate, I naÃ¯vely thought
+came up with beautiful design, but at any rate, I naïvely thought
 that this was going to be easy, and of course my whole, my goal, it
 was to have Volume Two ready for the printer after my sabbatical
 year. I had one year to write these programs and to, and to capture
