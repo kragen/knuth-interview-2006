@@ -361,7 +361,7 @@ nerd of nerds** at that time.
 [7 - My sense of humor](http://webofstories.com/play/17066)
 -----------------------------------------------------------
 
-Rather than sceptical, cynical, I would prefer satirical or something.
+Rather than skeptical, cynical, I would prefer satirical or something.
  
 KARAGUEUZIAN: Satirical. 
  
